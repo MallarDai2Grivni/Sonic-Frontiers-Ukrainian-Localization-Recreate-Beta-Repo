@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1030_010" id="997040221" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Сонік! Ти в порядку?
+    </text>
+    <text name="ev1030_020" id="997040348" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Я? Ти сама тут лишень наполовину.
+    </text>
+    <text name="ev1030_030" id="997040475" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Зі мною все добре. Але енергія що утримувала мене перейшла до тебе!
+    </text>
+    <text name="ev1030_040" id="997040602" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Хе, Не вперше мені вбирати в себе дивні енергетичні штуки. Тимпаче, я відчуваю що це дало мені трохи сил!
+    </text>
+    <text name="ev1030_050" id="997040729" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Щож... в такому випадку, нам потрібно рухатись. Якщо я в пастці, то і хлопці теж там!
+    </text>
+    <text name="ev1030_055" id="997040734" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Щож... в такому випадку, нам потрібно рухатись. Якщо я в пастці, то і Тейлз теж там!
+    </text>
+    <text name="ev1030_060" id="997040856" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Гарна ідея. Я розвідаю місцину і знайду тебе пізніше. Домовились?
+    </text>
+    <text name="ev1030_070" id="997040983" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Домовились! Будь обережним!
+    </text>
+    <text name="ev1030_080" id="997041110" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      “Обережним”? А що в цьому цікавого?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

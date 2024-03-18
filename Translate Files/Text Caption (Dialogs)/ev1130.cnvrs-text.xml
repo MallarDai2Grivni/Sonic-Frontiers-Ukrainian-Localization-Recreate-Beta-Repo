@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1130_010" id="686906718" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Я розширюю діапазон свого контролю, але все ще можу керувати лише кількома реліквіями Древніх одночасно.
+    </text>
+    <text name="ev1130_020" id="686906845" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Похвально, але як щодо того, щоб знайти мені вихід з цього цифрового виміру?
+    </text>
+    <text name="ev1130_030" id="686906972" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Я провела один мільйон сімсот тисяч п'ятдесят симуляцій. Серед них жодного, який би безпечно виводив вас з Кіберпростору.
+    </text>
+    <text name="ev1130_040" id="686907099" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Неприйнятно! Продовжуй шукати! Зроби це своїм пріоритетом номер один!
+    </text>
+    <text name="ev1130_050" id="686907226" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Але... забезпечення вашої безпеки є моїм пріоритетом...
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

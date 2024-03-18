@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1140_010" id="3660505053" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1140_020" id="3660505180" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Не тікай далеко!
+    </text>
+    <text name="ev1140_030" id="3660505307" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Може ми маемо просто дати їм закінчити це самостійно.
+    </text>
+    <text name="ev1140_040" id="3660505434" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ми повинні довести справу до кінця!
+    </text>
+    <text name="ev1140_050" id="3660505561" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ми все ще не знайшли Тейлза чи Наклза. Ми весь час тільки й нянчились з дітьми, ходячи довкола.
+    </text>
+    <text name="ev1140_055" id="3660505566" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ми все ще не знайшли Тейлза. Ми весь час тільки й нянчились з дітьми, ходячи довкола.
+    </text>
+    <text name="ev1140_060" id="3660505688" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Хочеш сказати, що кинув би когось просто так в біді?
+    </text>
+    <text name="ev1140_070" id="3660505815" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ні! Але я також хвилююся за тебе. Поки ти знаходишся в лімбо, ти нікому не зможеш допомогти.
+    </text>
+    <text name="ev1140_080" id="3660505942" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Гаразд.
+    </text>
+    <text name="ev1140_090" id="3660506069" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      І тоді ми зможемо врятувати всіх інших!
+    </text>
+    <text name="ev1140_095" id="3660506074" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Тоді поквапся та врятуй мене, і разом ми знайдемо Тейлза!
+    </text>
+    <text name="ev1140_100" id="3660521055" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Звучить досить просто.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

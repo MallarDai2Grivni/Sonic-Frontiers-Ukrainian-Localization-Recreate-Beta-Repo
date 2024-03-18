@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1100_010" id="356046305" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1100_020" id="356046432" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Щось не так?
+    </text>
+    <text name="ev1100_035" id="356046564" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Кажуть, що її коханий на знаходився на тому кінці поля. Але це поле...
+    </text>
+    <text name="ev1100_040" id="356046686" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Щось я не бачу тут ферм поблизу.
+    </text>
+    <text name="ev1100_050" id="356046813" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Можливо... якщо ти використаєш цей свій новий прийом, то ми змогли б пробратись крізь ці зарослі?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

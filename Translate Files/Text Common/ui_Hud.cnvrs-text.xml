@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="hud_battlerush_island_1" id="386146222" font="Range_FNT" layout="Range_LAY">
+      Кронос
+    </text>
+    <text name="hud_battlerush_island_2" id="386146223" font="Range_FNT" layout="Range_LAY">
+      Арес
+    </text>
+    <text name="hud_battlerush_island_3" id="386146224" font="Range_FNT" layout="Range_LAY">
+      Хаос
+    </text>
+    <text name="hud_battlerush_island_4" id="386146225" font="Range_FNT" layout="Range_LAY">
+      Уранос
+    </text>
+    <text name="hud_pinball_Score1" id="417400786" font="Range_FNT" layout="Range_LAY">
+      Рахунок
+    </text>
+    <text name="hud_pinball_Score2" id="417400787" font="Range_FNT" layout="Range_LAY">
+      Набрати
+    </text>
+    <text name="hud_info_miss" id="429261253" font="Range_FNT" layout="Range_LAY">
+      Спробуй ще раз
+    </text>
+    <text name="hud_pinball_ScoreRate2" id="624046547" font="Range_FNT" layout="Range_LAY">
+      Множник рахунку
+    </text>
+    <text name="hud_sonic_boost" id="1051570408" font="Range_FNT_HUDdeco_light" layout="Range_LAY">
+      ПРИСК.
+    </text>
+    <text name="hud_sonic_combo" id="1311680627" font="Range_FNT_HUDdeco" layout="Range_LAY">
+      КОМБО
+    </text>
+    <text name="hud_sonic_speed_2nd" id="1367658165" font="Range_FNT_HUDdeco_light" layout="Range_LAY">
+      2
+    </text>
+    <text name="hud_sonic_speed_3rd" id="1367674802" font="Range_FNT_HUDdeco_light" layout="Range_LAY">
+      3
+    </text>
+    <text name="hud_sonic_speed_low" id="1368593793" font="Range_FNT_HUDdeco_light" layout="Range_LAY">
+      НИЗ.
+    </text>
+    <text name="hud_sonic_speed_top" id="1368722818" font="Range_FNT_HUDdeco_light" layout="Range_LAY">
+      ВИС.
+    </text>
+    <text name="hud_status_level" id="1373383743" font="Range_FNT" layout="Range_LAY">
+      Рів.
+    </text>
+    <text name="hud_btnguide_next" id="1434329290" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Далі
+    </text>
+    <text name="hud_sonic_br_combo" id="1514641178" font="Range_FNT_HUDdeco" layout="Range_LAY">
+      РЕКОРД КОМБО
+    </text>
+    <text name="hud_pinball_ScoreRate" id="1898757599" font="Range_FNT" layout="Range_LAY">
+      x<var name="ScoreRate_num" />
+    </text>
+    <text name="hud_sonic_speed_gear" id="2002313986" font="Range_FNT_HUDdeco_light" layout="Range_LAY">
+      REV
+    </text>
+    <text name="hud_enemy_asr1" id="2120016336" font="Range_FNT" layout="Range_LAY">
+      АСУРА
+    </text>
+    <text name="hud_enemy_cha1" id="2123933524" font="Range_FNT" layout="Range_LAY">
+      ГУСЕНИЦЯ
+    </text>
+    <text name="hud_enemy_dar1" id="2125871163" font="Range_FNT" layout="Range_LAY">
+      ВЕЖА
+    </text>
+    <text name="hud_enemy_dar2" id="2125871164" font="Range_FNT" layout="Range_LAY">
+      ЗЕМЛЕРІЙ
+    </text>
+    <text name="hud_enemy_dar3" id="2125871165" font="Range_FNT" layout="Range_LAY">
+      ЧЕРВОНА КОЛОНА
+    </text>
+    <text name="hud_enemy_dar4" id="2125871166" font="Range_FNT" layout="Range_LAY">
+      СРІБНИЙ МОЛОТ
+    </text>
+    <text name="hud_enemy_dar5" id="2125871167" font="Range_FNT" layout="Range_LAY" />
+    <text name="hud_enemy_fly1" id="2130146237" font="Range_FNT" layout="Range_LAY">
+      КАЛЬМАР
+    </text>
+    <text name="hud_enemy_nin1" id="2146483517" font="Range_FNT" layout="Range_LAY">
+      НІНДЗЯ
+    </text>
+    <text name="hud_enemy_nin2" id="2146483518" font="Range_FNT" layout="Range_LAY">
+      ШИНОБІ
+    </text>
+    <text name="hud_enemy_nin3" id="2146483519" font="Range_FNT" layout="Range_LAY">
+      КУНОІЧІ
+    </text>
+    <text name="hud_enemy_nin4" id="2146483520" font="Range_FNT" layout="Range_LAY">
+      МАЙСТЕР НІНДЗЯ
+    </text>
+    <text name="hud_enemy_nin5" id="2146483521" font="Range_FNT" layout="Range_LAY">
+      МАЙСТЕР НІНДЗЯ+
+    </text>
+    <text name="hud_enemy_ski1" id="2156757055" font="Range_FNT" layout="Range_LAY">
+      АКУЛА
+    </text>
+    <text name="hud_enemy_smo1" id="2156790075" font="Range_FNT" layout="Range_LAY">
+      СУМОЇСТ
+    </text>
+    <text name="hud_enemy_spi1" id="2156837700" font="Range_FNT" layout="Range_LAY">
+      ПАВУК
+    </text>
+    <text name="hud_enemy_spi2" id="2156837701" font="Range_FNT" layout="Range_LAY">
+      ПАВУК+
+    </text>
+    <text name="hud_enemy_str1" id="2156903359" font="Range_FNT" layout="Range_LAY">
+      СТРАЙДЕР
+    </text>
+    <text name="hud_enemy_trk1" id="2158918595" font="Range_FNT" layout="Range_LAY">
+      ПРИВИД
+    </text>
+    <text name="hud_enemy_tyr1" id="2159032387" font="Range_FNT" layout="Range_LAY">
+      ТАНК
+    </text>
+    <text name="hud_enemy_tyr2" id="2159032388" font="Range_FNT" layout="Range_LAY">
+      ТАНК+
+    </text>
+    <text name="hud_enemy_wsp1" id="2165080508" font="Range_FNT" layout="Range_LAY">
+      ФОРТЕЦЯ
+    </text>
+    <text name="hud_sonic_nitroboost" id="2180814440" font="Range_FNT_HUDdeco_light" layout="Range_LAY">
+      ПОКРАЩ. БУСТ
+    </text>
+    <text name="hud_sonic_oxygen" id="2769118587" font="Range_FNT_HUDdeco_light" layout="Range_LAY">
+      O2
+    </text>
+    <text name="hud_info_hurryup1" id="2823092755" font="Range_FNT_HUDdeco" layout="Range_LAY">
+      Швидше!
+    </text>
+    <text name="hud_info_hurryup2" id="2823092756" font="Range_FNT_HUDdeco" layout="Range_LAY">
+      Швидше!
+    </text>
+    <text name="hud_enemy_boss1" id="3206077989" font="Range_FNT" layout="Range_LAY">
+      ГІГАНТ
+    </text>
+    <text name="hud_enemy_boss2" id="3206077990" font="Range_FNT" layout="Range_LAY">
+      ВИВЕРНА
+    </text>
+    <text name="hud_enemy_boss3" id="3206077991" font="Range_FNT" layout="Range_LAY">
+      ЛИЦАР
+    </text>
+    <text name="hud_enemy_boss4" id="3206077992" font="Range_FNT" layout="Range_LAY">
+      ОТАМАН
+    </text>
+    <text name="hud_enemy_boss5" id="3206077993" font="Range_FNT" layout="Range_LAY">
+      КІНЕЦЬ
+    </text>
+    <text name="hud_info_speedmeter" id="3625885931" font="Range_FNT_HUDdeco_light" layout="Range_LAY">
+      ШВИДКІСТЬ
+    </text>
+    <text name="hud_info_timeup" id="3690286513" font="Range_FNT" layout="Range_LAY">
+      ЧАС ВИЙШОВ
+    </text>
+    <text name="hud_sonic_accelLvUP" id="3845026450" font="Range_FNT_HUDdeco" layout="Range_LAY">
+      ФАНТОМНИЙ РИВОК!!
+    </text>
+    <text name="hud_info_challengename" id="4034641797" font="Range_FNT_needitem" layout="Range_LAY_needitem">
+      К-<var name="challenge_name" />
+    </text>
+    <text name="hud_info_totaltime" id="4171814824" font="Range_FNT" layout="Range_LAY">
+      ЗАГАЛЬНЕ
+    </text>
+    <text name="hud_enemy_Lv_max" id="4230279118" font="Range_FNT" layout="Range_LAY">
+      МАКС
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_HUDdeco_light">
+      <typeface>RANGEmixStd</typeface>
+      <size>22</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1065353216</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_HUDdeco">
+      <typeface>RANGEmixBld</typeface>
+      <size>48</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>0</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_btnguide">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_needitem">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_btnguide">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_needitem">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

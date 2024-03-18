@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1690_010" id="4092927325" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Та штука в небі... вона спотворює все на острові!
+      Навіть Коко!
+    </text>
+    <text name="ev1690_020" id="4092927452" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Я не потерплю цього!
+    </text>
+    <text name="ev1690_030" id="4092927579" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Хлопці? Зосередьтеся.
+      Наклз має послабити цю штуку на Смарагдах, а Тейлз - звільнити їх.
+    </text>
+    <text name="ev1690_040" id="4092927706" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Я займуся Коко. У мене є відчуття, що вони будуть мати вирішальне значення для плану.
+    </text>
+    <text name="ev1690_050" id="4092927833" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ти не зашкодиш цьому світу.
+      Я не дозволю!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1590_010" id="108093532" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Вам потрібно піднятися на чотири Вежі Майстрів.
+      Це пам'ятники пілотам, які віддали своє життя, щоб врятувати світ.
+    </text>
+    <text name="ev1590_020" id="108093659" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Пілоти, вони були тими, кого я бачив у тих видіннях, так?
+      Ті, що контролюють Титанів?
+    </text>
+    <text name="ev1590_030" id="108093786" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Так. Титанів, яких ти знищив.
+    </text>
+    <text name="ev1590_040" id="108093913" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Гей, я ж просив тебе пояснити все з самого початку, пам'ятаєш?
+    </text>
+    <text name="ev1590_050" id="108094040" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Зараз це не має значення. По всьому острову заховані компоненти, необхідні для створення ключів до кожної вежі. Знайди їх, піднімісь на вежі, пройди випробування, і ти отримаєш контроль над кіберспотворенням.
+    </text>
+    <text name="ev1590_060" id="108094167" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Шматочки створюють ключі, ключі відмикають вежі, вежі роблять мене ще крутішим.
+      Зрозумів! Повернуся за мить!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

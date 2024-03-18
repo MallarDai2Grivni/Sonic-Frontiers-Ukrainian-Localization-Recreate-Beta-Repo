@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1670_010" id="2440697951" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Браво. Ти саме той герой, яким я хотів тебе бачити.
+      Мій народ думав про мене так само. Вони шукали в мені надію і натхнення.
+    </text>
+    <text name="ev1670_015" id="2440697956" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Мені... не вистачало.
+    </text>
+    <text name="ev1670_020" id="2440698078" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ви звільнили моїх найдорожчих друзів від панцирів Титану, 
+      і за це я вам дуже вдячний.
+    </text>
+    <text name="ev1670_025" id="2440698083" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Я, однак, загубився. Те, що ти бачиш зараз, - це спогад про мене до того,
+      як ми полетіли в бій. Мені завжди було цікаво, чим все закінчилося.
+      Тепер я знаю.
+    </text>
+    <text name="ev1670_030" id="2440698205" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Прийми моє благословення, а з ним мою вдячність і мої надії.
+      Тепер ти герой цих світів.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

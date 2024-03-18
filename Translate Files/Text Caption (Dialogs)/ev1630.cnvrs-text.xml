@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1630_010" id="3431206499" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ти справді грізний воїн.
+      І справа не тільки в твоїй майстерності. Я бачу твій незламний дух.
+    </text>
+    <text name="ev1630_020" id="3431206626" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Не соромно бути переможеним тобою.
+      Прийми моє благословення і отримай перемогу, яку я не зміг здобути!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

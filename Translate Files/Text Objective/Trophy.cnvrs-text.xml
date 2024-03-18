@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="trp_cmn_bd_001" id="274080700">
+      Отримати всі нагороди.
+    </text>
+    <text name="trp_cmn_bd_002" id="274080701">
+      Завершити туторіал на острові Кроноса.
+    </text>
+    <text name="trp_cmn_bd_003" id="274080702">
+      Перемоти Титана та завершити основний сюжет на острові Кроноса.
+    </text>
+    <text name="trp_cmn_bd_004" id="274080703">
+      Перемоти Титана та завершити основний сюжет на острові Ареса.
+    </text>
+    <text name="trp_cmn_bd_005" id="274080704">
+      Перемоти Титана та завершити основний сюжет на острові Хаоса.
+    </text>
+    <text name="trp_cmn_bd_006" id="274080705">
+      Перемоти Титана та завершити основний сюжет на острові Урана.
+    </text>
+    <text name="trp_cmn_bd_007" id="274080706">
+      Перемогти останню загрозу та завершити основний сюжет.
+    </text>
+    <text name="trp_cmn_bd_009" id="274080708">
+      Переглянути все побічні історії на острові Кроноса.
+    </text>
+    <text name="trp_cmn_bd_010" id="274080826">
+      Переглянути все побічні історії на острові Ареса.
+    </text>
+    <text name="trp_cmn_bd_011" id="274080827">
+      Переглянути все побічні історії на острові Хаоса.
+    </text>
+    <text name="trp_cmn_bd_012" id="274080828">
+      Переглянути все побічні історії на острові Урана.
+    </text>
+    <text name="trp_cmn_bd_013" id="274080829">
+      Переглянути всі побічні історії.
+    </text>
+    <text name="trp_cmn_bd_014" id="274080830">
+      Пройти всі випробування на острові Кроноса та повністю відкрити мапу.
+    </text>
+    <text name="trp_cmn_bd_015" id="274080831">
+      Пройти всі випробування на острові Ареса та повністю відкрити мапу.
+    </text>
+    <text name="trp_cmn_bd_016" id="274080832">
+      Пройти всі випробування на острові Хаоса та повністю відкрити мапу.
+    </text>
+    <text name="trp_cmn_bd_017" id="274080833">
+      Пройти всі випробування на острові Урана та повністю відкрити мапу.
+    </text>
+    <text name="trp_cmn_bd_018" id="274080834">
+      Відкрити всі Уміння.
+    </text>
+    <text name="trp_cmn_bd_019" id="274080835">
+      Вперше активувати потужне прискорення.
+    </text>
+    <text name="trp_cmn_bd_020" id="274080953">
+      Вперше виконати Фантомний Ривок, поза симулятором.
+    </text>
+    <text name="trp_cmn_bd_021" id="274080954">
+      Виконати Фантомний Ривок 50 раз, поза симулятором.
+    </text>
+    <text name="trp_cmn_bd_022" id="274080955">
+      Зберіть 200 Koко.
+    </text>
+    <text name="trp_cmn_bd_023" id="274080956">
+      Вперше поговоріть зі старійшиною Коко.
+    </text>
+    <text name="trp_cmn_bd_024" id="274080957">
+      Вперше поговоріть з Коко-відлюдником.
+    </text>
+    <text name="trp_cmn_bd_025" id="274080958">
+      Досягніть максимального рівня Сили.
+    </text>
+    <text name="trp_cmn_bd_026" id="274080959">
+      Досягніть максимального рівня Захисту.
+    </text>
+    <text name="trp_cmn_bd_027" id="274080960">
+      Досягніть максимального рівня Кілець.
+    </text>
+    <text name="trp_cmn_bd_028" id="274080961">
+      Досягніть максимального рівня Швидкості.
+    </text>
+    <text name="trp_cmn_bd_029" id="274080962">
+      Переможіть ворогів всіх типів.
+    </text>
+    <text name="trp_cmn_bd_030" id="274081080">
+      Переможіть вартового вперше.
+    </text>
+    <text name="trp_cmn_bd_031" id="274081081">
+      Переможіть вартових всіх типів.
+    </text>
+    <text name="trp_cmn_bd_032" id="274081082">
+      Знищіть 100 об'єктів.
+    </text>
+    <text name="trp_cmn_bd_033" id="274081083">
+      Стикніться з зорепадом вперше.
+    </text>
+    <text name="trp_cmn_bd_034" id="274081084">
+      Полагодьте всі Портали на острові Кроноса.
+    </text>
+    <text name="trp_cmn_bd_035" id="274081085">
+      Полагодьте всі Портали на острові Ареса.
+    </text>
+    <text name="trp_cmn_bd_036" id="274081086">
+      Полагодьте всі Портали на острові Хаоса.
+    </text>
+    <text name="trp_cmn_bd_037" id="274081087">
+      Полагодьте всі Портали на острові Урана.
+    </text>
+    <text name="trp_cmn_bd_038" id="274081088">
+      Завершіть всі завдання в одному Кіберпросторі.
+    </text>
+    <text name="trp_cmn_bd_039" id="274081089">
+      Вперше отримайте Ранг S в Кіберпросторі.
+    </text>
+    <text name="trp_cmn_bd_040" id="274081207">
+      Завершіть туторіал до риболовлі.
+    </text>
+    <text name="trp_cmn_bd_041" id="274081208">
+      Отримайте 100 Фіолетових Монет.
+    </text>
+    <text name="trp_cmn_bd_042" id="274081209">
+      Дістаньте весь улов на одній точці лову.
+    </text>
+    <text name="trp_set_tit" id="346625205">
+      SONIC FRONTIERS
+    </text>
+    <text name="trp_xbox_tit_001" id="1602234578">
+      Досягнення отрманно.
+    </text>
+    <text name="trp_cmn_tit_001" id="2408508649" font="Range_FNT" layout="Range_LAY">
+      Trophies Completed!
+    </text>
+    <text name="trp_cmn_tit_002" id="2408508650" font="Range_FNT" layout="Range_LAY">
+      Подорож починається
+    </text>
+    <text name="trp_cmn_tit_003" id="2408508651" font="Range_FNT" layout="Range_LAY">
+      Початок
+    </text>
+    <text name="trp_cmn_tit_004" id="2408508652" font="Range_FNT" layout="Range_LAY">
+      Стародавній виклик
+    </text>
+    <text name="trp_cmn_tit_005" id="2408508653" font="Range_FNT" layout="Range_LAY">
+      Марний спротив
+    </text>
+    <text name="trp_cmn_tit_006" id="2408508654" font="Range_FNT" layout="Range_LAY">
+      Надія крізь віки
+    </text>
+    <text name="trp_cmn_tit_007" id="2408508655" font="Range_FNT" layout="Range_LAY">
+      Земля в мирі
+    </text>
+    <text name="trp_cmn_tit_008" id="2408508656" font="Range_FNT" layout="Range_LAY">
+      Невичерпний
+    </text>
+    <text name="trp_cmn_tit_009" id="2408508657" font="Range_FNT" layout="Range_LAY">
+      Експерт острова Кроноса
+    </text>
+    <text name="trp_cmn_tit_010" id="2408508775" font="Range_FNT" layout="Range_LAY">
+      Експерт острова Ареса
+    </text>
+    <text name="trp_cmn_tit_011" id="2408508776" font="Range_FNT" layout="Range_LAY">
+      Експерт острова Хаоса
+    </text>
+    <text name="trp_cmn_tit_012" id="2408508777" font="Range_FNT" layout="Range_LAY">
+      Експерт острова Урана
+    </text>
+    <text name="trp_cmn_tit_013" id="2408508778" font="Range_FNT" layout="Range_LAY">
+      Історик-експерт
+    </text>
+    <text name="trp_cmn_tit_014" id="2408508779" font="Range_FNT" layout="Range_LAY">
+      Дослідник острова Кроноса
+    </text>
+    <text name="trp_cmn_tit_015" id="2408508780" font="Range_FNT" layout="Range_LAY">
+      Дослідник острова Ареса
+    </text>
+    <text name="trp_cmn_tit_016" id="2408508781" font="Range_FNT" layout="Range_LAY">
+      Дослідник острова Хаоса
+    </text>
+    <text name="trp_cmn_tit_017" id="2408508782" font="Range_FNT" layout="Range_LAY">
+      Дослідник острова Урана
+    </text>
+    <text name="trp_cmn_tit_018" id="2408508783" font="Range_FNT" layout="Range_LAY">
+      Неперевершені здібності
+    </text>
+    <text name="trp_cmn_tit_019" id="2408508784" font="Range_FNT" layout="Range_LAY">
+      Демон Швидкості
+    </text>
+    <text name="trp_cmn_tit_020" id="2408508902" font="Range_FNT" layout="Range_LAY">
+      Комбо Перетворювач
+    </text>
+    <text name="trp_cmn_tit_021" id="2408508903" font="Range_FNT" layout="Range_LAY">
+      Комбо Крекджек
+    </text>
+    <text name="trp_cmn_tit_022" id="2408508904" font="Range_FNT" layout="Range_LAY">
+      Лідер Коко
+    </text>
+    <text name="trp_cmn_tit_023" id="2408508905" font="Range_FNT" layout="Range_LAY">
+      Зустріч Зі Старійшиною Коко
+    </text>
+    <text name="trp_cmn_tit_024" id="2408508906" font="Range_FNT" layout="Range_LAY">
+      Зустріч з Коко-відлюдником
+    </text>
+    <text name="trp_cmn_tit_025" id="2408508907" font="Range_FNT" layout="Range_LAY">
+      Геркулесів Їжак
+    </text>
+    <text name="trp_cmn_tit_026" id="2408508908" font="Range_FNT" layout="Range_LAY">
+      Загартований Їжак
+    </text>
+    <text name="trp_cmn_tit_027" id="2408508909" font="Range_FNT" layout="Range_LAY">
+      Сердечний Їжак
+    </text>
+    <text name="trp_cmn_tit_028" id="2408508910" font="Range_FNT" layout="Range_LAY">
+      Гіпершвидкісний Їжак
+    </text>
+    <text name="trp_cmn_tit_029" id="2408508911" font="Range_FNT" layout="Range_LAY">
+      Легка Здобич
+    </text>
+    <text name="trp_cmn_tit_030" id="2408509029" font="Range_FNT" layout="Range_LAY">
+      Невідома Загроза
+    </text>
+    <text name="trp_cmn_tit_031" id="2408509030" font="Range_FNT" layout="Range_LAY">
+      Загрози Ідентифіковані
+    </text>
+    <text name="trp_cmn_tit_032" id="2408509031" font="Range_FNT" layout="Range_LAY">
+      Смуга Руйнації
+    </text>
+    <text name="trp_cmn_tit_033" id="2408509032" font="Range_FNT" layout="Range_LAY">
+      Небейсний Дощ
+    </text>
+    <text name="trp_cmn_tit_034" id="2408509033" font="Range_FNT" layout="Range_LAY">
+      Пам'ять Острова Кроноса
+    </text>
+    <text name="trp_cmn_tit_035" id="2408509034" font="Range_FNT" layout="Range_LAY">
+      Пам'ять Острова Ареса
+    </text>
+    <text name="trp_cmn_tit_036" id="2408509035" font="Range_FNT" layout="Range_LAY">
+      Пам'ять Острова Хаоса
+    </text>
+    <text name="trp_cmn_tit_037" id="2408509036" font="Range_FNT" layout="Range_LAY">
+      Пам'ять Острова Урана
+    </text>
+    <text name="trp_cmn_tit_038" id="2408509037" font="Range_FNT" layout="Range_LAY">
+      Ідеальний Забіг
+    </text>
+    <text name="trp_cmn_tit_039" id="2408509038" font="Range_FNT" layout="Range_LAY">
+      Суперський Ранг
+    </text>
+    <text name="trp_cmn_tit_040" id="2408509156" font="Range_FNT" layout="Range_LAY">
+      Великий Дослідник
+    </text>
+    <text name="trp_cmn_tit_041" id="2408509157" font="Range_FNT" layout="Range_LAY">
+      Квиток на Спокій
+    </text>
+    <text name="trp_cmn_tit_042" id="2408509158" font="Range_FNT" layout="Range_LAY">
+      Рибальський Клуб
+    </text>
+    <text name="trp_set_bd" id="3114041932">
+      Досягнення SONIC FRONTIERS
+    </text>
+    <text name="trp_xbox_bd_001" id="3953963859">
+      Всі досягнення розблоковано
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

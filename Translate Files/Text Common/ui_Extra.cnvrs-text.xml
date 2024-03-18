@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="extra_birthday_check" id="91882165" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Святкові Декорації
+    </text>
+    <text name="extra_birthday_check_detail" id="192662427" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Ввімкнути святкові декорації?
+    </text>
+    <text name="extra_Initial_Xbox" id="215959869" />
+    <text name="extra_notice_event" id="325126402" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Про катсцени
+    </text>
+    <text name="extra_item_1_choice_1" id="495685310" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Черевики та Рукавиці Шукача Пригод
+    </text>
+    <text name="extra_item_1_choice_2" id="495685311" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Броня Раталос
+    </text>
+    <text name="extra_item_1_choice_3" id="495685312" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Броня Фелін Реталос
+    </text>
+    <text name="extra_item_1_choice_7" id="495685316" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Колабоація з Inugami Korone
+    </text>
+    <text name="extra_item_1_choice_8" id="495685317" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Черевики з SA2
+    </text>
+    <text name="extra_item_1_choice_9" id="495685318" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Костюм Їжака-Миколая
+    </text>
+    <text name="extra_check_detail_Epic" id="680205069" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Будь даска завантажте пакунок "Скриня Скарбів Дослідника" перед початком нової гри. Зверніть увагу: якщо ви завантажите його після туторіалу, бонуси не активуються.
+    </text>
+    <text name="extra_Initial_detail_PC" id="810760887" />
+    <text name="extra_item_1" id="1034028148" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Екіпіровка Соніка
+    </text>
+    <text name="extra_item_2" id="1034028149" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Koco Appearance
+    </text>
+    <text name="extra_item_3" id="1034028150" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Звукові ефекти
+    </text>
+    <text name="extra_item_4" id="1034028151" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Скриня Скарбів Шукача Пригод
+    </text>
+    <text name="extra_item_5" id="1034028152" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Скриня Скарбів Дослідника
+    </text>
+    <text name="extra_item_7" id="1034028154" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Емоція Соніка з Коко
+    </text>
+    <text name="extra_item_8" id="1034028155" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Зовнішність островів
+    </text>
+    <text name="extra_item_9" id="1034028156" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Екіпіровка Друзів
+    </text>
+    <text name="extra_item_8_choice_1" id="1187819063" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Подробиці вечірки
+    </text>
+    <text name="extra_item_2_choice_2" id="1208128318" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Колаборація з Inugami Korone “Koronesuki” вигляд для Коко
+    </text>
+    <text name="extra_item_2_choice_3" id="1208128319" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Весняні Коко
+    </text>
+    <text name="extra_item_2_choice_4" id="1208128320" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Святковий Вигляд Коко
+    </text>
+    <text name="extra_detail_PC" id="1347013586">
+      Придбаний завантажуваний контент буде доступний у меню "Екстра".
+    </text>
+    <text name="extra_Initial_PC" id="1396162973" />
+    <text name="extra_item_9_mtips" id="1621057794" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Змінити зовнішність друзів
+    </text>
+    <text name="extra_item_9_choice_1" id="1900262070" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Святковий Одяг Друзів
+    </text>
+    <text name="extra_item_3_choice_1" id="1920571324" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Звукові ефекти колаборації з Inugami Korone
+    </text>
+    <text name="extra_item_8_mtips" id="1931191297" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Змінює вигляд островів
+    </text>
+    <text name="extra_detail_Xbox" id="2054446706">
+      Придбаний завантажуваний контент буде доступний у меню "Екстра".
+    </text>
+    <text name="extra_item_5_detail" id="2067412056" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Скриню Скарбів Дослідника активовано.
+      Пам'ятні Жетони, Шестерні Порталів, та Ключі Сховищ від Смарагдів Хаосу стануть доступні з початком нової гри.
+    </text>
+    <text name="extra_Initial_detail" id="2112010011" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Скинути весь Екстра контент?
+    </text>
+    <text name="extra_item_7_mtips" id="2241324800" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Додатковs анімації неативності
+    </text>
+    <text name="extra_check_detail" id="2388262135" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Будь даска завантажте пакунок "Скриня Скарбів Дослідника" та "Скриня Скарбів Шукача Пригод" перед початком нової гри. Зверніть увагу: якщо ви завантажите його після туторіалу, бонуси не активуються.
+    </text>
+    <text name="extra_item_1_choice_10" id="2822492274" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Святковий Одяг Соніка
+    </text>
+    <text name="extra_item_1_choice_11" id="2822492275" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Герой Рубежів
+    </text>
+    <text name="extra_item_5_mtips" id="2861591806" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Додаткові Пам'ятні Жетони, Шестерні Порталів, та Ключі Сховищ від Смарагдів Хаосу стануть доступні після закінчення туторіалу.
+    </text>
+    <text name="extra_Initial_detail_Xbox" id="2898798679" />
+    <text name="extra_item_4_mtips" id="3171725309" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Почни гру з додатковими Очками Доствіду, Червоним Насінням Сили, та Синім Насінням Захисту.
+    </text>
+    <text name="extra_Initial_detail_Switch" id="3177514872" />
+    <text name="extra_btnguide_Initial" id="3258851700" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Скинути
+    </text>
+    <text name="extra_Initial_Switch" id="3465855582" />
+    <text name="extra_item_3_mtips" id="3481858812" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Змінює звукові ефекти
+    </text>
+    <text name="extra_adapted" id="3586602834" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      DLC Підключено
+    </text>
+    <text name="extra_detail" id="3769236864" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Отриманий скачуваний контент буде доступний у меню "Екстра".
+    </text>
+    <text name="extra_item_2_mtips" id="3791992315" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Змінює зовнішній вигляд Коко
+    </text>
+    <text name="extra_notice_event_detail" id="3858141902" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Вбрання не відображатиметься в певних катсценах.
+    </text>
+    <text name="extra_detail_Switch" id="3965837971">
+      Отриманий скачуваний контент буде доступний у меню "Екстра".
+    </text>
+    <text name="extra_item_0_choice_0" id="4078209598" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      За замовчуванням
+    </text>
+    <text name="extra_item_1_mtips" id="4102125818" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Змінює одяг Соніка
+    </text>
+    <text name="extra_Initial" id="4200257333" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Скинути додатковий вміст
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial">
+      <typeface>RANGEmixStd</typeface>
+      <size>46</size>
+      <lineSpacing>26</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_textbox">
+      <typeface>RANGEmixStd</typeface>
+      <size>34</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_menuitem">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_mtips">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>8</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_btnguide">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_toast">
+      <typeface>RANGEmixStd</typeface>
+      <size>48</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_textbox">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_menuitem">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_mtips">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_btnguide">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_toast">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1545_010" id="3720694246" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1545_015" id="3720694251" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Хм? Хто тут?!
+      О, той, хто подорожує крізь вимірами.
+      Сподіваюся, з тобою все гаразд.
+    </text>
+    <text name="ev1545_020" id="3720694373" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Вітаю. Вибачте, що турбую вас, але ви, можливо, наша остання надія.
+      Скажіть, що сталося зі Смарагдами Хаосу?
+    </text>
+    <text name="ev1545_025" id="3720694378" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ворог намагається зламати печатку і втекти з Цифрового Сну.
+      Ми використали наші технології, щоб об'єднати та сховати Смарагди Хаосу.
+    </text>
+    <text name="ev1545_030" id="3720694500" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Дякуємо за розуміння! Ми вас не підведемо!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

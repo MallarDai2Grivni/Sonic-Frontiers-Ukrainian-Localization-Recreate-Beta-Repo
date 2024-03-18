@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="fish_019_name" id="907001" font="Range_FNT" layout="Range_LAY">
+      Целакант
+    </text>
+    <text name="fish_115_explain" id="31823430" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Схоже, Емі Роуз теж втянули в це.
+      Вона розумна. І вперта. Вона пройшла довгий шлях з тих пір, як була легкою пішкой в моїх планах заманити Соніка в пастку. Схоже, їй було важко знайти себе. Хоча, коли ти розмовляєшся з особистістю з таким роздутим его, як у Соніка, самоідентифікація має бути непростим завданням.
+    </text>
+    <text name="fish_032_name" id="40288130" font="Range_FNT" layout="Range_LAY">
+      Жолуд
+    </text>
+    <text name="fish_045_name" id="61015040" font="Range_FNT" layout="Range_LAY">
+      Акула-молот в цяточку
+    </text>
+    <text name="fish_058_name" id="81741950" font="Range_FNT" layout="Range_LAY">
+      Велика райдужна жаба
+    </text>
+    <text name="fish_000_explain" id="155216577" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Маленька рибка з яскраво-червоними смужками. Її часто використовують в приготуванні страв або заводять в якості домашньої тваринки.
+    </text>
+    <text name="fish_097_name" id="162576899" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 4
+    </text>
+    <text name="fish_041_explain" id="203651262" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Це створіння, схоже на комаху, живе на глубині океану, куди не проникає сонячне світло. Завдяки своєму неймовірному метаболізму воно може прожити без їжі декілька років, а для насичення йому достатньо навіть найменшого перекусу.
+    </text>
+    <text name="fish_091_explain_1" id="230016395" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      3 золоті карти?! Оце так вдача!
+    </text>
+    <text name="fish_102_name" id="238439422" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 9
+    </text>
+    <text name="fish_115_name" id="259166332" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 22
+    </text>
+    <text name="fish_022_explain" id="272395201" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Масивна плоска риба. Довжина її тіла може досягати 3 метрів, але сама вона доволі тендітна. Мальки зовсів не схожі на дорослих особин, тому як у них інша форма — зіркоподібна.
+    </text>
+    <text name="fish_009_name" id="311040504" font="Range_FNT" layout="Range_LAY">
+      Кайманова черепаха
+    </text>
+    <text name="fish_003_explain" id="341139140" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Це безхребетне з потужними клешнями мешкає в чистих прісних водоймищ. Річковий рак всеїдний, так що зловити його можна на будь-яку наживку, яка виявиться у вас під рукой.
+    </text>
+    <text name="fish_022_name" id="350421633" font="Range_FNT" layout="Range_LAY">
+      Циба-сонце
+    </text>
+    <text name="fish_035_name" id="371148543" font="Range_FNT" layout="Range_LAY">
+      Барракуда
+    </text>
+    <text name="fish_044_explain" id="389573825" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Риба, схожа на змію, з гострими зубами та лютою вдачею.
+    </text>
+    <text name="fish_048_name" id="391875453" font="Range_FNT" layout="Range_LAY">
+      Маленький Чопер
+    </text>
+    <text name="fish_085_explain" id="438008510">
+      Маленьке червоне насіння. Віднесіть його коко-самітнику, щоб збільшити силу атаки Соніка.
+    </text>
+    <text name="fish_100_explain" id="441165250" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Хто такі Древні? Вони існували набагато раніше за будь-яку з цивілізацій.
+      Єхидні? Пф-ха.
+      Блек Армс? Ой, ніі.
+      Вавилонці? Пф, навряд чи!
+      Проте їхнього впливу межі цих трьох маленьких островів не пішло. Чому? Що завадило їм завоювати весь світ?
+    </text>
+    <text name="fish_025_explain" id="458317764" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Звичайна червона пружина. Настаньте на неї — і ви злетите ще вище, ніж якщо відштовхнетеся від жовтої пружини.
+    </text>
+    <text name="fish_006_explain" id="527061703" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      У цієї морської тварини гладка шкіра, вісім кінцівок і два щупальця. Воно може змінювати свій зовнішній вигляд, щоб сховатися від хижаків.
+    </text>
+    <text name="fish_105_name" id="569299835" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 12
+    </text>
+    <text name="fish_047_explain" id="575496388" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Цікаво, дерево, з якого він упав, теж срібне?
+    </text>
+    <text name="fish_103_explain" id="627087813" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Щось знищило древніх, це однозначно.
+      Катастрофічна подія викликала жахливі екологічні зміни на островах. Здається, вони спробували відновити1 їх, але не встигли.
+      Вони вимерли, не залишивши потомства.
+    </text>
+    <text name="fish_028_explain" id="644240327" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Маркер, який відмічає всіх, хто проходить повз нього. Торкніться його, і після падіння ви до нього повернетесь!
+    </text>
+    <text name="fish_012_name" id="660555136" font="Range_FNT" layout="Range_LAY">
+      Вудильник
+    </text>
+    <text name="fish_025_name" id="681282046" font="Range_FNT" layout="Range_LAY">
+      Червона пружина
+    </text>
+    <text name="fish_038_name" id="702008956" font="Range_FNT" layout="Range_LAY">
+      Жаба-дереволаз
+    </text>
+    <text name="fish_009_explain" id="712984266" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Велика черепаха воліє жити в болотистій місцевості. Довжина її тіла може досягати 80 см, а маса — 110 кг.
+    </text>
+    <text name="fish_051_name" id="741390085" font="Range_FNT" layout="Range_LAY">
+      Золотий целакант
+    </text>
+    <text name="fish_106_explain" id="813010376" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Сейдж працює з максимальною ефективністю!
+      Незрозуміло, чому Орбот та Кубот не вийшли такими. Вона не лише бере під контроль мережу Древніх, а й не дає спокою Соніку! Мені це подобається!
+    </text>
+    <text name="fish_090_name" id="822225034" font="Range_FNT" layout="Range_LAY">
+      Скриня зі скарбами
+    </text>
+    <text name="fish_010_explain" id="867659584" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Дуже смачна риба. У У деяких регіонах її ікра вважається делікатесом. У мальків м'ясо бліде, а у дорослих особин — помаранчевий. Такого кольору йому надають пігменти їжі, якою риба харчується.
+    </text>
+    <text name="fish_108_name" id="900160248" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 15
+    </text>
+    <text name="fish_051_explain" id="916094269" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Луска цього цілантанту дуже гарно переливається, але заводити такого вихованця не варто: ви перестанете висипатися через спалахи золотого світла в акваріумі.
+    </text>
+    <text name="fish_092_explain" id="964528954" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Рукопис старійшини Коко.
+      Якщо ви віднесете цей сувій на острів, то відкриєте швидке переміщення до старійшини коко.
+    </text>
+    <text name="fish_002_name" id="970688639" font="Range_FNT" layout="Range_LAY">
+      Медака
+    </text>
+    <text name="fish_032_explain" id="984838208" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Саджанець дуба. Жолуді бувають або круглими, або тонкими і довгастими. Більше нічого особливого в них нема.
+    </text>
+    <text name="fish_015_name" id="991415549" font="Range_FNT" layout="Range_LAY">
+      Краб
+    </text>
+    <text name="fish_109_explain" id="998932939" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Сейдж зіграла вирішальну роль у моєму виживанні в Кіберпросторі. Вона попереджає про загрози, допомагає обійти мережевий захист і повідомляє мені все, що відбувається по той бік... Люблю її.
+      В сенсі...
+      «Її» - як програму.
+      Чарівну програму. Дуже жива програма. Хм-м-м... Цікаво, а вона... має... вподобання?
+    </text>
+    <text name="fish_028_name" id="1012142459" font="Range_FNT" layout="Range_LAY">
+      Зоряний стовп
+    </text>
+    <text name="fish_041_name" id="1051523588" font="Range_FNT" layout="Range_LAY">
+      Гігантська мокриця
+    </text>
+    <text name="fish_013_explain" id="1053582147" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Деякі гурмани вживають м'ясо цього восьминогого молюска. Як і кальмар, при загрозі він випускає чорнило, яке тимчасово паралізує органи почуттів мурени — його найлютішого ворога.
+    </text>
+    <text name="fish_054_name" id="1072250498" font="Range_FNT" layout="Range_LAY">
+      Квітчастий вудильник
+    </text>
+    <text name="fish_054_explain" id="1102016832" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Ця яскрава крихітка виглядає набагато менш люто, ніж її великі родичі.
+    </text>
+    <text name="fish_095_explain" id="1150451517" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Що тут робить військова техніка Г.А.Н.? Сейдж врятувала мене, проте я не певен, що цією технікою хтось керував. Чи може це захисний механізм? Потрібно дізнатися докладніше.
+    </text>
+    <text name="fish_093_name" id="1153085447" font="Range_FNT" layout="Range_LAY">
+      Сувій Коко-відлюдника
+    </text>
+    <text name="fish_110_explain" id="1153608257" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Я ніколи не знав своєї двоюрідної сестри Марії.
+      Усі говорили про неї, як про особливу. Вся ця любов до людини, якої не було, коли я був!
+      Так! Точно! Але мені цікаво. Чи була вона тоді схожа на Сейдж?
+    </text>
+    <text name="fish_035_explain" id="1170760771" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Велика риба з великим ротом і гострими зубами. Від природи вона дуже зла і може навіть на вас напасти!
+    </text>
+    <text name="fish_016_explain" id="1239504710" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Лютий гострозубий хижак, який воліє селитися у болота і озера. Взимку він виходить на сушу, щоб не замерзнути.
+    </text>
+    <text name="fish_111_name" id="1249674880" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 18
+    </text>
+    <text name="fish_057_explain" id="1287939395" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Ця велика риба-сонце може похвалитися витонченими яскравими смужками, які помітні навіть у мутній воді.
+    </text>
+    <text name="fish_005_name" id="1301549052" font="Range_FNT" layout="Range_LAY">
+      Риба-клоун
+    </text>
+    <text name="fish_018_name" id="1322275962" font="Range_FNT" layout="Range_LAY">
+      Короп коі
+    </text>
+    <text name="fish_098_explain" id="1336374080" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Я офіційно заздрю. Весь цей простір був побудований стародавньою расою, яка раніше оселилася на цих островах! Рівень технологій, що вони використовували, мені зовсім чужий, тому я не можу врятуватися... поки що.
+    </text>
+    <text name="fish_113_explain" id="1339530820" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Сонік також на острові.
+      Звичайно, Сонік теж на острові.
+      Вже й не згадаю, коли востаннє цей синій не псував мені всю малину. Проте, для суто органічної істоти розгін до Маха 1 власними силами дуже вражає.
+      Мені вистачає мужності визнати це.
+    </text>
+    <text name="fish_038_explain" id="1356683334" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Красива, але вкрай отруйна жаба. Будьте обережні поряд з цією небезпечною стрибункою!
+    </text>
+    <text name="fish_031_name" id="1361657091" font="Range_FNT" layout="Range_LAY">
+      Гілка
+    </text>
+    <text name="fish_044_name" id="1382384001" font="Range_FNT" layout="Range_LAY">
+      Мурена
+    </text>
+    <text name="fish_057_name" id="1403110911" font="Range_FNT" layout="Range_LAY">
+      Смугаста риба-сонце
+    </text>
+    <text name="fish_019_explain" id="1425427273" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Велика риба, яку іноді називають «живою копалиною», оскільки вона анітрохи не змінилася з часів давнини. Бо про нєї практично нічого не відомо, вона досі приваблює до собі великий інтерес громадськості та вчених.
+    </text>
+    <text name="fish_096_name" id="1483945860" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 3
+    </text>
+    <text name="fish_116_explain" id="1525453383" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Накльз теж тут.
+      Який дурень.
+      Через цього запального єхідни у мене були великі проблеми, але добре. Іноді мені вдавалось змусити його діяти в моїх цілях. Стоп! Якщо він тут, значить, Майстер Емеральд ніким не охороняється! Тепер він буде моїм!
+      А ні, не буде... Я ж тут застряг. Ох-х-х.
+    </text>
+    <text name="fish_101_name" id="1559808383" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 8
+    </text>
+    <text name="fish_020_explain" id="1580102591" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Дуже довга риба. Можливо, саме вона послужила прообразом для міфологічних морських істот, про яких складали легенди.
+    </text>
+    <text name="fish_114_name" id="1580535293" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 21
+    </text>
+    <text name="fish_008_name" id="1632409465" font="Range_FNT" layout="Range_LAY">
+      Короп
+    </text>
+    <text name="fish_001_explain" id="1648846530" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Ця риба мешкає в річках і невеликих водоймищах. Біля рота у в'юна є вусики, які допомагають йому знаходити їжу, а тіло у нього слизьке і пофарбовано в темний колір.
+    </text>
+    <text name="fish_021_name" id="1671790594" font="Range_FNT" layout="Range_LAY">
+      Тунець
+    </text>
+    <text name="fish_034_name" id="1692517504" font="Range_FNT" layout="Range_LAY">
+      Шина
+    </text>
+    <text name="fish_042_explain" id="1697281215" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Назва не бреше: голова цієї великої риби справді формою нагадує молот! Зважаючи на все, за рахунок цього вона вловлює електричні сигнали краще, ніж інші акули.
+    </text>
+    <text name="fish_047_name" id="1713244414" font="Range_FNT" layout="Range_LAY">
+      Срібний жолудь
+    </text>
+    <text name="fish_023_explain" id="1766025154" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Риба, морда якої нагадує спис. Вважається найшвидшою серед інших риб. Можна навіть назвати її морським Соніком!
+    </text>
+    <text name="fish_086_name" id="1794079363">
+      Синє насіння захисту
+    </text>
+    <text name="fish_099_name" id="1814806273" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 6
+    </text>
+    <text name="fish_004_explain" id="1834769093" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Личинки жаб, які мешкають у воді. У новонародженого пуголовка спочатку відростають задні лапки, а потім — передні. У деяких видів на черевці є спіральний візерунок.
+    </text>
+    <text name="fish_045_explain" id="1883203778" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      З виду вона, звичайно, чарівниця, але факт залишається фактом: це кровожерна акула-молот. Не дайте їй обдурити вас!
+    </text>
+    <text name="fish_104_name" id="1890668796" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 11
+    </text>
+    <text name="fish_117_name" id="1911395706">
+      Нотатка Еггмана 24
+    </text>
+    <text name="fish_086_explain" id="1931638463">
+      Симпатичне синє насіння. Віднесіть його коко-відлюднику, щоб підвищити захист Соніка.
+    </text>
+    <text name="fish_101_explain" id="1934795203" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Я знаходжу безліч зв'язків між Древніми та Емеральдами Хаосу. Їхні технології, схоже, створені з урахуванням Емеральдів. Таке враження, що вони мають спільне походження. Я люблю гарні загадки, але не тоді, коли відповіді ще загадковіші! Аргх!
+    </text>
+    <text name="fish_026_explain" id="1951947717" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Порожня консервна банка. Схоже, те, що було всередині, хтось уже з'їв. Цікаво, що...
+    </text>
+    <text name="fish_011_name" id="1981924097" font="Range_FNT" layout="Range_LAY">
+      Камбала
+    </text>
+    <text name="fish_024_name" id="2002651007" font="Range_FNT" layout="Range_LAY">
+      Жовта пружина
+    </text>
+    <text name="fish_007_explain" id="2020691656" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Цей мешканець солоних водоймищ отримав свою назву за зовнішню схожість з конем.
+    </text>
+    <text name="fish_037_name" id="2023377917" font="Range_FNT" layout="Range_LAY">
+      Морська зірка
+    </text>
+    <text name="fish_050_name" id="2062759046" font="Range_FNT" layout="Range_LAY">
+      Синьокільчастий восьминіг
+    </text>
+    <text name="fish_048_explain" id="2069126341" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Маленький Чопер. Як і його «старший брат», він зроблений із металу, але деякі його деталі виглядають витонченішими.
+    </text>
+    <text name="fish_104_explain" id="2120717766" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Повірити не можу!
+      Я наказав Сейдж провести генетичний аналіз даних Древніх і порівняти їх з архівами, які у мене з собою. Вони предки Хаосу, Бога Руйнування! Після незліченних років їх ДНК мутували настільки, що вони стали зовсім іншою расою.
+      Якийсь вид радіації вплинув на них протягом століть, зробивши їх невпізнанними... але я, великий геній, їх розкусив.
+    </text>
+    <text name="fish_029_explain" id="2137870280" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Ця табличка вказує на те, що ви досягли своєї мети. Дрібниця, а приємно!
+    </text>
+    <text name="fish_107_name" id="2221529209" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 14
+    </text>
+    <text name="fish_090_explain" id="2272236344" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Скриня зі скарбами з дна озера. В ним, напевно, захована золота карта, яку шукає Біг.
+    </text>
+    <text name="fish_001_name" id="2292057600" font="Range_FNT" layout="Range_LAY">
+      В'юн
+    </text>
+    <text name="fish_030_explain" id="2292545598" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Механічна істота, схожа на рибу. З'їсти його не можна — навіть не намагайтеся.
+    </text>
+    <text name="fish_107_explain" id="2306640329" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Незважаючи на всі старання, Сейдж не може контролювати Титанів. Шкода... Вона може віддавати їм накази, але їй щось заважає взяти їх під повний контроль.
+    </text>
+    <text name="fish_014_name" id="2312784510" font="Range_FNT" layout="Range_LAY">
+      Риба-фугу
+    </text>
+    <text name="fish_027_name" id="2333511420" font="Range_FNT" layout="Range_LAY">
+      Коробка з предметом
+    </text>
+    <text name="fish_011_explain" id="2361289537" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Риба, схожа на плямисту гальку, яка мешкає на глибині річок і ставків. Непомітне забарвлення допомагає їй ховатися від хижаків.
+    </text>
+    <text name="fish_040_name" id="2372892549" font="Range_FNT" layout="Range_LAY">
+      Летуча риба
+    </text>
+    <text name="fish_053_name" id="2393619459" font="Range_FNT" layout="Range_LAY">
+      Чорна морська зірка
+    </text>
+    <text name="fish_052_explain" id="2409724222" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Великий різновид лосося. Чавича мешкає в досить холодних регіонах океану, а її м'ясо набагато жирніше, ніж у звичайний лосось.
+    </text>
+    <text name="fish_093_explain" id="2458158907" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Сувій Коко-відлюдника.
+      Якщо ви віднесете цей сувій на острів, то відкриєте швидке переміщення до коко-відлюдника.
+    </text>
+    <text name="fish_092_name" id="2474454408" font="Range_FNT" layout="Range_LAY">
+      Сувій старійшини Коко
+    </text>
+    <text name="fish_033_explain" id="2478468161" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Одне з тих золотих кілець, які завжди рятують Соніка. Саме це навряд чи справжнє — швидше за все, його зробили для краси.
+    </text>
+    <text name="fish_014_explain" id="2547212100" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Ця звичайна на перший погляд риба роздмухується, як тільки відчує небезпеку.
+    </text>
+    <text name="fish_110_name" id="2571043841" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 17
+    </text>
+    <text name="fish_055_explain" id="2595646785" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Червона гігантська мокриця набагато більша за решту гігантських мокриць. Вона, можна сказати, їхня королева!
+    </text>
+    <text name="fish_004_name" id="2622918013" font="Range_FNT" layout="Range_LAY">
+      Пуголовок
+    </text>
+    <text name="fish_017_name" id="2643644923" font="Range_FNT" layout="Range_LAY">
+      Чонний окунь
+    </text>
+    <text name="fish_096_explain" id="2644081470" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Ландшафт тут постійно змінюється. Я бачив відтворені регіони Південного острова, Західного острова та навіть острова Ангела! Звідки надходять ці екологічні дані?
+    </text>
+    <text name="fish_111_explain" id="2647238210" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Під час свого звіту Сейдж розповіла мені найсмішніший жарт у житті.
+      Як швидко Сонік може все зіпсувати? Миттєво, адже - у світі він найшвидший!»
+      Розумниця моя. Ну прямо вся в мене. Ну, себто, я над нею добре попрацював. Адже вона програма.
+      І не моя дочка. І... Хм-м-м.
+    </text>
+    <text name="fish_036_explain" id="2664390724" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Плоска риба з довгим хвостом. Кажуть, скат є близьким родичем акули, але зовні вони зовсім не схожі один на одного. В черевній частині тіла ската розташовані зябра.
+    </text>
+    <text name="fish_030_name" id="2683026052" font="Range_FNT" layout="Range_LAY">
+      Чопер
+    </text>
+    <text name="fish_043_name" id="2703752962" font="Range_FNT" layout="Range_LAY">
+      Древня стела
+    </text>
+    <text name="fish_056_name" id="2724479872" font="Range_FNT" layout="Range_LAY">
+      Червоний скат
+    </text>
+    <text name="fish_017_explain" id="2733134663" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Риба, поширена в регіонах з помірним кліматом. Рибалки дуже люблять ловити окунів і іноді навіть влаштовують змагання «у кого швидше клюне».
+    </text>
+    <text name="fish_058_explain" id="2781569348" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Велика жаба всіх кольорів веселки. Її раціон складається з їжі різних відтінків.
+    </text>
+    <text name="fish_095_name" id="2805314821" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 2
+    </text>
+    <text name="fish_099_explain" id="2830004033" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Схоже, що острів Зорепаду є центральним процесором для Кіберпростору. Як тільки виберуся звідси, візьму над ним контроль. Звичайно, отримати доступ до даних не так просто, але, наскільки я зрозумів, усю історію Древніх записано тут, у Кіберпросторі. Більш того! Тут і їхні спогади, їхні бажання... майже якби вони закодували тут свої душі. Хм-м-м... І як же мені це використати у своїх інтересах?
+    </text>
+    <text name="fish_114_explain" id="2833160773" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Еггманом мене прозвав саме Сонік.
+      Ось тільки йому не вдалося образити мене! Я прийняв це ім'я! Я зробив його своїм! Його глузування стало ім'ям, перед яким будуть схилятися все і вся! Але я не збираюся приймати ім'я «Лисим Носоволосиком. Моя гідність вища за це.
+    </text>
+    <text name="fish_039_explain" id="2850313287" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Незважаючи на свою назву, ця декоративна рибка насправді не золота, а червона. В дикій природі не зустрічається.
+    </text>
+    <text name="fish_100_name" id="2881177344" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 7
+    </text>
+    <text name="fish_113_name" id="2901904254" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 20
+    </text>
+    <text name="fish_007_name" id="2953778426" font="Range_FNT" layout="Range_LAY">
+      Морський коник
+    </text>
+    <text name="fish_020_name" id="2993159555" font="Range_FNT" layout="Range_LAY">
+      Ремень-риба
+    </text>
+    <text name="fish_040_explain" id="3004988605" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Риба з великими плавцями. Такі риби часто вистрибують із води, рятуючись від хижаків.
+    </text>
+    <text name="fish_033_name" id="3013886465" font="Range_FNT" layout="Range_LAY">
+      Кільце
+    </text>
+    <text name="fish_117_explain" id="3019083336" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Якщо тут Сонік, то не дивно, що Тейлз також.
+      Як шкода. Але ж у юного Прауера гострий розум і великий потенціал. Жаль він зациклений на поклонінні Соніку. З іншого боку, може, це й на краще. Враховуючи всі неприємності, які він доставив мені на Стейшн Сквері і на АРК, я вважав би за краще, щоб він і далі витрачав свій потенціал у порожню, залишаючись у тіні у Соніка.
+    </text>
+    <text name="fish_046_name" id="3034613375" font="Range_FNT" layout="Range_LAY">
+      Червона банка
+    </text>
+    <text name="fish_021_explain" id="3073732544" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Ця риба відома своїм вишуканим смаком. Усі частини її тіла можна вживати в їжу — іноді навіть сирими. Як правило, чим жирніша особина, тим вона дорожча.
+    </text>
+    <text name="fish_085_name" id="3115448324">
+      Червоне насіння сили
+    </text>
+    <text name="fish_098_name" id="3136175234" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 5
+    </text>
+    <text name="fish_002_explain" id="3142476483" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Медака найчастіше зустрічається у домашніх акваріумах. У цієї мініатюрної крихкої рибки є безліч підвидів, наприклад прозора медака, медака з різнокольоровою лускою і т. д.
+    </text>
+    <text name="fish_043_explain" id="3190911168" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Кам'яна стела з вибитими на ній трьома ідентичними за змістом текстами різними мовами. Їх, напевно, можна розшифрувати...
+    </text>
+    <text name="fish_103_name" id="3212037757" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 10
+    </text>
+    <text name="fish_116_name" id="3232764667">
+      Нотатка Еггмана 23
+    </text>
+    <text name="fish_024_explain" id="3259655107" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Звичайна жовта пружина. Настаньте на неї — і ви злетите в повітря.
+    </text>
+    <text name="fish_010_name" id="3303293058" font="Range_FNT" layout="Range_LAY">
+      Лосось
+    </text>
+    <text name="fish_023_name" id="3324019968" font="Range_FNT" layout="Range_LAY">
+      Марлін
+    </text>
+    <text name="fish_005_explain" id="3328399046" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Ця строката тропічна риба в останні роки здобула велику популярність. Найпоширеніші види — червоні, жовті і оранжеві риби-клоуни з білими смужками.
+    </text>
+    <text name="fish_036_name" id="3344746878" font="Range_FNT" layout="Range_LAY">
+      Скат
+    </text>
+    <text name="fish_049_name" id="3365473788" font="Range_FNT" layout="Range_LAY">
+      Платинова золота рибка
+    </text>
+    <text name="fish_046_explain" id="3376833731" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Порожння червона банка. Можливо, раніше в ній було м'ясо в гострий соус для приготування чилі-догів.
+    </text>
+    <text name="fish_102_explain" id="3428425156" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Схоже, Древні використовували набір дивних фігурок як обереги або тотеми. Ці ж фігурки використовують Коко, що бігають островами. Чи надихнули Коко древніх? Або Коко перейняли залишки, коли Давні пішли? Хм-м...
+    </text>
+    <text name="fish_027_explain" id="3445577670" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Усередині цієї коробки є предмет. Щоб дістати його, треба вдарити по ній!
+    </text>
+    <text name="fish_008_explain" id="3514321609" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Ця риба живе в рельсах і ставках. Вона практично всеїдна, тому її часто використовують для очищення водойм.
+    </text>
+    <text name="fish_106_name" id="3542898170" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 13
+    </text>
+    <text name="fish_049_explain" id="3562756294" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Золота рибка платинового кольору. Її луска, що переливається, напевно цінується набагато вище, ніж у звичайної.
+    </text>
+    <text name="fish_000_name" id="3613426561" font="Range_FNT" layout="Range_LAY">
+      Гурамі
+    </text>
+    <text name="fish_105_explain" id="3614347719" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Я впроваджу свій передовий штучний інтелект у стародавню мережу, що охоплює острів Зорепаду.
+      Я дав йому кодове ім'я "Сейдж". Сейдж захопить чужорідну мережу, візьме під контроль усі її ресурси та передасть їх мені! ...Як тільки я виберусь звідси.
+    </text>
+    <text name="fish_013_name" id="3634153471" font="Range_FNT" layout="Range_LAY">
+      Восьминіг
+    </text>
+    <text name="fish_026_name" id="3654880381" font="Range_FNT" layout="Range_LAY">
+      Консервна банка
+    </text>
+    <text name="fish_039_name" id="3675607291" font="Range_FNT" layout="Range_LAY">
+      Золота рибка
+    </text>
+    <text name="fish_052_name" id="3714988420" font="Range_FNT" layout="Range_LAY">
+      Чавича
+    </text>
+    <text name="fish_050_explain" id="3717431612" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Восьминіг з крапчастим візерунком. Цей молюск не тільки красивий, але й небезпечний: він здатний випускати смертельно отруйний тетродотоксин, що й риби-фугу.
+    </text>
+    <text name="fish_091_explain" id="3765866297" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Золота скриня. Усередині, мабуть, дуже цінне.
+    </text>
+    <text name="fish_031_explain" id="3786175551" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Гілка, необхідна для створення та ремонту речей. Її можна було б використовувати для розпалювання, але вона вже відволожилася.
+    </text>
+    <text name="fish_091_name" id="3795823369" font="Range_FNT" layout="Range_LAY">
+      Золота скриня зі скарбами
+    </text>
+    <text name="fish_108_explain" id="3800270282" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Сейдж продовжує проганяти різні симуляції. Мені це вже набридло. Так, сила, що знищила Древніх, була грізною. Так, вивільнення її у цьому світі було б катастрофою. Але ж я геній. Як тільки я виберуся звідси, знайду спосіб приборкати її. Або краще – зверну її проти Соніка!
+    </text>
+    <text name="fish_012_explain" id="3854919490" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Глибоководна риба округлої форми. Свою назву вона отримала завдяки відростку, що світиться на голові, який допомагає їй приманювати видобуток.
+    </text>
+    <text name="fish_109_name" id="3873758583" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 16
+    </text>
+    <text name="fish_053_explain" id="3903354175" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Чорна морська зірка мешкає на океанському дні, де не буває сонячного світла. Завдяки такому забарвленню її там майже не видно.
+    </text>
+    <text name="fish_003_name" id="3944286974" font="Range_FNT" layout="Range_LAY">
+      Річний рак
+    </text>
+    <text name="fish_094_explain" id="3951788860" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Якась сила не дає мені вийти з Кіберпростору. Це тому, що моя ЩІ-програма отримала несанкціонований доступ до баз даних? Якщо так, то це прямо протилежно тому, що вона мала зробити.
+    </text>
+    <text name="fish_016_name" id="3965013884" font="Range_FNT" layout="Range_LAY">
+      Алігатор
+    </text>
+    <text name="fish_034_explain" id="3972098114" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Шина для транспортних засобів. Шини бувають різних розмірів та типів, але ця, схоже, призначена для звичайного автомобіля.
+    </text>
+    <text name="fish_029_name" id="3985740794" font="Range_FNT" layout="Range_LAY">
+      Цільова табличка
+    </text>
+    <text name="fish_042_name" id="4025121923" font="Range_FNT" layout="Range_LAY">
+      Акула-молот
+    </text>
+    <text name="fish_015_explain" id="4040842053" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Це морське ракоподібне знамените своїми гострими клешнями і боковою ходою. Деякі його види також вміють пересуватися вперед і назад, а деякі навіть плавають.
+    </text>
+    <text name="fish_055_name" id="4045848833" font="Range_FNT" layout="Range_LAY">
+      Червона гігантська мокриця
+    </text>
+    <text name="fish_056_explain" id="4089276738" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Похилого віку з отруйними голками на хвості. Його отрута залишиться смертельною, навіть якщо скат загине.
+    </text>
+    <text name="fish_094_name" id="4126683782" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 1
+    </text>
+    <text name="fish_097_explain" id="4137711423" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Я знайшов елементи своєї мережі Егг-нет, документи Сполученої Федерації і навіть дані про гонки у Королівстві Донпа! Наскільки я гадаю, Кіберпростір виходить далеко за межі цих островів і збирає інформацію з усього світу. Приголомшливо!
+    </text>
+    <text name="fish_112_explain" id="4140868163" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Хто сказав, що я не можу створювати життя, га?
+      Всього схрещуєш купку білків разом. Та будь хто може це зробити. Тільки справжній геній робить це за допомогою коду та електронів! Якби я створив життя, воно було б неймовірно розумним, вірним та ефективним! А знаєш, чому? Тому що її творець – геній, ось чому!
+    </text>
+    <text name="fish_037_explain" id="4158020677" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Плоска морська істота з колючою шкірою, що пересувається з допомогою численних трубчастих виростів на внутрішній стороні тіла. Іноді морських зірок вживають у їжу або використвовують в народній медицині.
+    </text>
+    <text name="fish_112_name" id="4223273215" font="Range_FNT" layout="Range_LAY">
+      Нотатка Еггмана 19
+    </text>
+    <text name="fish_018_explain" id="4226764616" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      У цього декоративного коропа червоно-біло-чорне тіло, а його луска нагадує парчу.
+    </text>
+    <text name="fish_090_explain_1" id="4239035018" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Біг збирає такі карти. В обмін на одну з них він може дати вам щось корисне.
+    </text>
+    <text name="fish_006_name" id="4275147387" font="Range_FNT" layout="Range_LAY">
+      Кальмар
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_itemdetail">
+      <typeface>RANGEmixStd</typeface>
+      <size>28</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_itemdetail">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

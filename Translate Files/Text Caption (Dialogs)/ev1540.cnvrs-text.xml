@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1540_005" id="2419970919" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      А, мій добрий друг Сонік.
+      Ти привів наш народ до Цифрового Сну. Ми дякуємо тобі.
+    </text>
+    <text name="ev1540_010" id="2419971041" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Мені було дуже приємно.
+      Сподіваюся, тепер ти поведеш мене в правильному напрямку.
+      Ти знаєш, що сталося зі смарагдами Хаосу?
+    </text>
+    <text name="ev1540_015" id="2419971046" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Наші вороги заполонили землю і використовують наші творіння проти нас.
+      Смарагди тут, на цьому острові, але ми сховали їх за допомогою наших технологій.
+    </text>
+    <text name="ev1540_020" id="2419971168" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Дякуємо за розуміння! Ми вас не підведемо!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

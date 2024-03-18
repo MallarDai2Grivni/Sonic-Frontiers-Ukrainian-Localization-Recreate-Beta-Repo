@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="skill_52_explain" id="14422115" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Тисніть <image name="button_left_trigger" /> під час бігу чи в повітри, аби скрутитись в клубок та переїхати ворогів, наносячи їм шкоду.
+    </text>
+    <text name="skill_62_name" id="14493664" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Політ
+    </text>
+    <text name="skill_49_command" id="16755039" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_right" /> в повітрі
+    </text>
+    <text name="skill_75_name" id="35220574" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Кібер Петля
+    </text>
+    <text name="skill_33_explain" id="83166054" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Тисніть <image name="button_left_trigger" /> ід час бігу чи в повітри, аби скрутитись в клубок та переїхати ворогів, наносячи їм шкоду.
+    </text>
+    <text name="skill_28_command_Steam" id="110593361" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="s_button_attack" /> при появі таргету
+    </text>
+    <text name="skill_74_explain" id="131600739" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Вороги, атаки яких ви парували, на короткий час зменшують свою шкоду
+    </text>
+    <text name="skill_74_command_Steam" id="135890632" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
+    </text>
+    <text name="skill_14_explain" id="151909993" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Оточіть ворога і випустіть потік ударних хвиль.
+    </text>
+    <text name="skill_50_command" id="171430357" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_top" />
+    </text>
+    <text name="skill_55_explain" id="200344678" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Вороги, атаки яких ви парували, на короткий час зменшують свій захист
+    </text>
+    <text name="skill_69_command_Steam" id="205872206" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_cyloop" />
+    </text>
+    <text name="skill_05_command_Steam" id="222808912" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуй <image name="s_button_attack" /> під час комбо
+    </text>
+    <text name="skill_31_command" id="240174296" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_top" />
+    </text>
+    <text name="skill_13_name" id="243792218" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Хомінґ Шот
+    </text>
+    <text name="skill_26_name" id="264519128" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Атака картами
+    </text>
+    <text name="skill_36_explain" id="269088617" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Залишає слід світла під час руху. При закритті кола може викликати різні ефекти.
+    </text>
+    <text name="skill_39_name" id="285246038" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_72_command" id="288608981" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_left_shoulder" />＋<image name="button_right_shoulder" />
+    </text>
+    <text name="skill_12_command" id="308918235" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисніть <image name="button_right" /> під час комбо
+    </text>
+    <text name="skill_77_explain" id="317523302" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_52_name" id="324627167" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Спін Деш
+    </text>
+    <text name="skill_17_explain" id="337832556" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_65_name" id="345354077" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Прискорення "Торнадо"
+    </text>
+    <text name="skill_53_command" id="357352920" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_left_shoulder" />＋<image name="button_right_shoulder" />
+    </text>
+    <text name="skill_78_name" id="366080987" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_58_explain" id="386267241" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_34_command" id="426096859" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_left_shoulder" />＋<image name="button_right_shoulder" />
+    </text>
+    <text name="skill_23_command_Steam" id="430303308" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" /> поки видно таргет
+    </text>
+    <text name="skill_39_explain" id="455011180" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_75_command" id="474531544" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_top" /> під час руху
+    </text>
+    <text name="skill_15_command" id="494840798" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_56_command" id="543275483" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_top" /> під час руху
+    </text>
+    <text name="skill_03_name" id="553925721" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Швидка Кібер Петля
+    </text>
+    <text name="skill_16_name" id="574652631" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_29_name" id="595379541" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Картковий Стомп
+    </text>
+    <text name="skill_40_explain" id="609686498" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_37_command" id="612019422" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_bottom" /> в повітрі
+    </text>
+    <text name="skill_42_name" id="634760670" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Планерування
+    </text>
+    <text name="skill_55_name" id="655487580" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Розривне Парирування
+    </text>
+    <text name="skill_78_command" id="660454107" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_68_name" id="676214490" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Шипастий Стомп
+    </text>
+    <text name="skill_21_explain" id="678430437" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Стрибок в повітря
+    </text>
+    <text name="skill_18_command" id="680763361" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      уміння 18 команд
+    </text>
+    <text name="skill_36_command_Steam" id="707779278" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуй <image name="s_button_cyloop" /> під час руху
+    </text>
+    <text name="skill_62_explain" id="726865122" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Утримуйте для польоту та летіть паралельно землі. Тейлз не може літати вічно, коли він втомиться він почне втрачати висоту.
+    </text>
+    <text name="skill_59_command" id="729198046" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_02_explain" id="747174376" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Зроби потужну атаку слідуючи підказкам на екрані.
+    </text>
+    <text name="skill_26_explain_Steam" id="767145435" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Використовуйте Карти Таро для атаки. Двічі тисність <image name="s_button_attack" /> щоб атакувати двічі поспіль.
+    </text>
+    <text name="skill_72_explain_Steam" id="792442706" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Утримуйте <image name="s_button_qsleft" />＋<image name="s_button_qsright" /> для відбиття атак.
+    </text>
+    <text name="skill_43_explain" id="795609061" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Виконуйте Хомінґ Атаку на ворогам чи деяким об'єктам, на яких є таргет
+    </text>
+    <text name="skill_13_command_Steam" id="819994829" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисніть <image name="button_right_trigger" /> в повітрі →<image name="s_button_attack" /> в повітрі
+    </text>
+    <text name="skill_24_explain" id="864353000" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Використовуйте індикатор прискорення аби збільшити свою швидкість. Під час прискорення в повітрі ви здійсните 
+    </text>
+    <text name="skill_60_command" id="883873364" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_06_name" id="884786134" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Розгромне відновлення
+    </text>
+    <text name="skill_19_name" id="905513044" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_65_explain" id="912787685" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Літайте на великій швидкості на борту "Торнадо". Утримуйте <image name="button_right_trigger" /> і використовуйте <image name="button_left_stick" /> для регулювання висоти і повороту.
+    </text>
+    <text name="skill_05_explain" id="933096939" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Коли Сонік підіймається після отримання шкоди, наносить ворогу шквал потужних ударів.
+    </text>
+    <text name="skill_32_name" id="944894173" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Нескінчення Карткове Кручення
+    </text>
+    <text name="skill_41_command" id="952617303" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_bottom" /> на землі
+    </text>
+    <text name="skill_45_name" id="965621083" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Скелелазіння
+    </text>
+    <text name="skill_46_explain" id="981531624" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Увійдіть в форму свердла та завдавайте шкоди ворогам під час прискорення.
+    </text>
+    <text name="skill_58_name" id="986347993" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_22_command" id="1021361242" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Використовуйте <image name="button_bottom" /> після подвійного стрибка
+    </text>
+    <text name="skill_71_name" id="1025729122" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Спін Деш
+    </text>
+    <text name="skill_31_command_Steam" id="1027489225" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_cyloop" />
+    </text>
+    <text name="skill_27_explain" id="1050275563" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Атака кручення під час, Атаки Картами. Використовуй <image name="button_left_stick" /> під час Карткової Атаки та рузу, і утримуйте <image name="button_left" /> аби крутитись довше. Якщо ви будете крутитись занадто довго, у Емі запаморочиться голова.
+    </text>
+    <text name="skill_63_command" id="1069795927" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" /> поки видно таргет
+    </text>
+    <text name="skill_03_command" id="1090105181" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисніть <image name="button_top" /> під час комбо
+    </text>
+    <text name="skill_26_command_Steam" id="1097470799" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" />
+    </text>
+    <text name="skill_68_explain" id="1098710248" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Трансформує бластер у відбійний молоток і починає пікіруючу атаку.
+    </text>
+    <text name="skill_08_explain" id="1119019502" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Високошвидкісний удар ногою, який вивільняє ударні хвилі що трощать ворогів.
+    </text>
+    <text name="skill_72_command_Steam" id="1122768070" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
+    </text>
+    <text name="skill_44_command" id="1138539866" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left_stick" />＋<image name="button_right_trigger" />
+    </text>
+    <text name="skill_49_explain" id="1167454187" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Падайте на ворогів з гори та завдавайте їм шкоди.
+    </text>
+    <text name="skill_title_unknown_01" id="1187941067" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      ????
+    </text>
+    <text name="skill_67_command_Steam" id="1192749644" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="s_button_attack" />
+    </text>
+    <text name="skill_25_command" id="1207283805" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left_stick" />＋<image name="button_right_trigger" /> при МАКС. КІЛЕЦЬ
+    </text>
+    <text name="skill_03_command_Steam" id="1209686350" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисніть <image name="s_button_cyloop" /> під час комбо
+    </text>
+    <text name="skill_09_name" id="1215646547" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Дикий Ривок
+    </text>
+    <text name="skill_22_name" id="1255027676" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Карткове Планерування
+    </text>
+    <text name="skill_66_command" id="1255718490" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" />
+    </text>
+    <text name="skill_35_name" id="1275754586" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Отруйне Парирування
+    </text>
+    <text name="skill_06_command" id="1276027744" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисніть <image name="button_bottom" /> коли з'явиться підказка
+    </text>
+    <text name="skill_48_name" id="1296481496" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Атака Свердлом 
+    </text>
+    <text name="skill_50_explain" id="1322129505" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Створює ударну хвилю, використовуючи шкалу, що заряджається кільцями, та вдаряючи по землі. Цей рух також можна використовувати в повітрі. Використовуйте його біля спеціальних знаків, аби виявити об'єкти чи предмети.
+    </text>
+    <text name="skill_47_command" id="1324462429" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" />
+    </text>
+    <text name="skill_61_name" id="1335862625" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Стрибок
+    </text>
+    <text name="skill_74_name" id="1356589535" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Парирування з дебаффом
+    </text>
+    <text name="skill_34_explain_Steam" id="1364331352" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Утримуй <image name="s_button_qsleft" />＋<image name="s_button_qsright" /> аби парирувати атаку.
+    </text>
+    <text name="skill_31_explain" id="1390873444" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Створює ударну хвилю використовуючи шкалу, що заряджається кільцями, та вдаряючи по землі молотом. Цей рух також можна використовувати в повітрі. Використовуйте його біля спеціальних знаків, аби виявити об'єкти чи предмети. 
+    </text>
+    <text name="skill_28_command" id="1393206368" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_left" /> при появі таргету
+    </text>
+    <text name="skill_72_explain" id="1439308129" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Утримуй <image name="button_left_shoulder" />＋<image name="button_right_shoulder" /> аби парирувати атаку.
+    </text>
+    <text name="skill_69_command" id="1441641053" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_top" />
+    </text>
+    <text name="skill_12_explain" id="1459617383" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Атака, при якій ви падаєте вниз на ворога, розтоптуючи його.
+    </text>
+    <text name="skill_09_command" id="1461950307" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисніть <image name="button_left_shoulder" /> / <image name="button_right_shoulder" /> → <image name="button_left" />
+    </text>
+    <text name="skill_53_explain" id="1508052068" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Утримуйте <image name="button_left_shoulder" />＋<image name="button_right_shoulder" /> аби парирувати атаку.
+    </text>
+    <text name="skill_12_name" id="1565161179" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Атака стомпом
+    </text>
+    <text name="skill_34_explain" id="1576796007" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Утримуйте <image name="button_left_shoulder" />＋<image name="button_right_shoulder" /> аби парирувати атаку.
+    </text>
+    <text name="skill_25_name" id="1585888089" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Прискорення Карткового Крутіння
+    </text>
+    <text name="skill_70_command" id="1596316371" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_right_trigger" />＋<image name="button_left" /> при МАКС. КІЛЕЦЬ
+    </text>
+    <text name="skill_38_name" id="1606614999" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_10_command" id="1616625625" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисніть <image name="button_right_trigger" /> в повітрі →<image name="button_right" /> в повітрі
+    </text>
+    <text name="skill_explain_unknown_01" id="1619053676" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Проходьте сюжет, щоб розблокувати це.
+    </text>
+    <text name="skill_75_explain" id="1625230692" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Залишає слід світла під час руху. При закритті кола може викликати різні ефекти.
+    </text>
+    <text name="skill_47_explain_Steam" id="1641807322" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Атака малої дальності. Кілька разів тисніть <image name="s_button_attack" /> щоб нанести до 3 ударів поспіль.
+    </text>
+    <text name="skill_15_explain" id="1645539946" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Бойові навички, які були розблоковані, автоматично активуються під час комбо. Однак, шкода від ударів, що ви наносите, зменшена. Після розблокування навички ви можете увімкнути/вимкнути автоматичне комбо в меню "Налаштування".
+    </text>
+    <text name="skill_51_name" id="1645996128" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Нескінченне планерування
+    </text>
+    <text name="skill_51_command" id="1665060310" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_bottom" /> в повітрі з МАКС. КІЛЬЦЯМИ
+    </text>
+    <text name="skill_64_name" id="1666723038" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Прискорення
+    </text>
+    <text name="skill_77_name" id="1687449948" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_56_explain" id="1693974631" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Залишає слід світла під час руху. При закритті кола може викликати різні ефекти.
+    </text>
+    <text name="skill_34_command_Steam" id="1694656716" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
+    </text>
+    <text name="skill_32_command" id="1733804249" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Використайте Карткове Кручення з МАКС. КІЛЬЦЯМИ
+    </text>
+    <text name="skill_37_explain" id="1762718570" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Невеликий стрибок у повітрі.
+    </text>
+    <text name="skill_73_command" id="1782238934" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_bottom" /> в повітрі
+    </text>
+    <text name="skill_75_command_Steam" id="1789935561" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="s_button_cyloop" /> в русі
+    </text>
+    <text name="skill_13_command" id="1802548188" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисність <image name="button_right_trigger" /> в повітрі →<image name="button_left" /> в повітрі
+    </text>
+    <text name="skill_78_explain" id="1811153255" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_18_explain" id="1831462509" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_54_command" id="1850982873" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_bottom" /> в повітрі
+    </text>
+    <text name="skill_02_name" id="1875294682" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Величний Нокаут
+    </text>
+    <text name="skill_59_explain" id="1879897194" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_15_name" id="1896021592" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Авто Комбо
+    </text>
+    <text name="skill_28_name" id="1916748502" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Мульти-лок
+    </text>
+    <text name="skill_35_command" id="1919726812" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_left_shoulder" />＋<image name="button_right_shoulder" />
+    </text>
+    <text name="skill_41_name" id="1956129631" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Стрибок
+    </text>
+    <text name="skill_76_command" id="1968161497" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_47_command_Steam" id="1972132686" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" />
+    </text>
+    <text name="skill_54_name" id="1976856541" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Подвійний Стрибок
+    </text>
+    <text name="skill_16_command" id="1988470751" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      уміння 16 команд
+    </text>
+    <text name="skill_67_name" id="1997583451" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Атака Зарядженим Ключем
+    </text>
+    <text name="skill_60_explain" id="2034572512" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_57_command" id="2036905436" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_41_explain" id="2103316451" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Стрибок в повітря
+    </text>
+    <text name="skill_38_command" id="2105649375" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_70_command_Steam" id="2109645508">
+      <image name="button_right_trigger" />＋<image name="s_button_attack" /> при МАКС. КІЛЬЦЯ
+    </text>
+    <text name="skill_79_command" id="2154084060" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_22_explain" id="2172060390" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Стрибніть під час кручення Карт Таро. Утримуйте <image name="button_bottom" /> щоб сповільнити спущення на землю.
+    </text>
+    <text name="skill_19_command" id="2174393314" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      уміння 19 команд
+    </text>
+    <text name="skill_01_command_Steam" id="2196563788" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="s_button_cyloop" /> під час руху
+    </text>
+    <text name="skill_05_name" id="2206155095" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Торнадний Удар
+    </text>
+    <text name="skill_63_explain" id="2220495075" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Виконуйте Хомінґ Атаку на ворогам чи деяким об'єктам, на яких є таргет
+    </text>
+    <text name="skill_18_name" id="2226882005" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_03_explain" id="2240804329" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Швидка Кібер Петля навколо ворога, коли лічильник Кібер Петлі досягне максимуму і стане синім.
+      Лічильник заповнюється з кожною атакою по ворогу і може використовуватися безперервно, поки він синій.
+    </text>
+    <text name="skill_31_name" id="2266263134" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Кібермолот
+    </text>
+    <text name="skill_44_name" id="2286990044" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Прискорення
+    </text>
+    <text name="skill_44_explain" id="2289239014" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Використовуйте індикатор прискорення аби збільшити свою швидкість. Під час прискорення в повітрі ви здійсните 
+    </text>
+    <text name="skill_57_name" id="2307716954" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_20_command" id="2329068632" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      уміння 20 команд
+    </text>
+    <text name="skill_70_name" id="2347098083" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Гармата "Торнадо"
+    </text>
+    <text name="skill_25_explain" id="2357982953" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Завдає шкоди ворогам під час прискорення. Використовуйте <image name="button_l_stick_leftright" />＋<image name="button_right" /> для дрифту.
+    </text>
+    <text name="skill_61_command" id="2377503317" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_bottom" /> на землі
+    </text>
+    <text name="skill_01_command" id="2397812571" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_top" /> в русі
+    </text>
+    <text name="skill_66_explain" id="2406417638" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Ви можете кидати ключ на близьку дистанцію. Якщо на екрані є таргет, ключ буде летіти туди куди вказує таргет.
+    </text>
+    <text name="skill_27_explain_Steam" id="2421190364" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Атака кручення під час, Атаки Картами. Використовуй <image name="button_left_stick" /> під час Карткової Атаки та рузу, і утримуйте <image name="s_button_attack" /> аби крутитись довше. Якщо ви будете крутитись занадто довго, у Емі запаморочиться голова.
+    </text>
+    <text name="skill_06_explain" id="2426726892" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Якщо Соніка буде відкинуто назад атакою і ви діятимете за підказкою на екрані, до того як він впаде на землю, Сонік негайно відповість ворогу Розгромним Відновленням.
+    </text>
+    <text name="skill_42_command" id="2446247256" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_bottom" /> після подвійного стрибку
+    </text>
+    <text name="skill_47_explain" id="2475161577" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Атака малої дальності. Кілька разів тисніть <image name="button_left" /> щоб нанести до 3 ударів поспіль.
+    </text>
+    <text name="skill_23_command" id="2514991195" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" /> поки таргет видимий
+    </text>
+    <text name="skill_08_name" id="2537015508" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      "Сонік Бум"
+    </text>
+    <text name="skill_28_explain" id="2543905516" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Автоматично атакуйте кілька цілей як відпустите кнопку <image name="button_left" /> після появи декількох таргетів.
+    </text>
+    <text name="skill_09_command_Steam" id="2544021332" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисніть <image name="s_button_qsleft" /> / <image name="s_button_qsright" /> → <image name="s_button_attack" />
+    </text>
+    <text name="skill_64_command" id="2563425880" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left_stick" />＋<image name="button_right_trigger" />
+    </text>
+    <text name="skill_55_command_Steam" id="2569318603" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
+    </text>
+    <text name="skill_21_name" id="2576396637" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Стрибок
+    </text>
+    <text name="skill_04_command" id="2583735134" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_69_explain" id="2592340201" font="Range_FNT_skillexp_min" layout="Range_LAY_skillexp">
+      Використовуйте шкалу щоб вистрілити кулею світла що вибухне при контакті з об'єктом. Використовуй <image name="button_top" /> аби підірвати її вручну. Це також працює і в повітрі. Використовуйте це біля спеціальних знаків, що зробить об'єкти та предмети які ховаються за ними, видимими.
+    </text>
+    <text name="skill_34_name" id="2597123547" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Парирування
+    </text>
+    <text name="skill_09_explain" id="2612649455" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Високошвидкісна, зигзаговидна атака.
+    </text>
+    <text name="skill_47_name" id="2617850457" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Комбо Атака
+    </text>
+    <text name="skill_45_command" id="2632169819" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Використовуйте <image name="button_left_stick" /> коли стоїте біля стіни
+    </text>
+    <text name="skill_60_name" id="2657231586" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_73_name" id="2677958496" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Подвійний стрибок
+    </text>
+    <text name="skill_26_command" id="2700913758" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" />
+    </text>
+    <text name="skill_70_explain" id="2747015519" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Стріляйте потужним променем з "Торнадо", та атакуйте ворогів. Використовуйте <image name="button_l_stick_leftright" /> щоб прицілитись.
+    </text>
+    <text name="skill_67_command" id="2749348443" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_left" />
+    </text>
+    <text name="skill_27_command_Steam" id="2751515728" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" /> після Карткової Атаки
+    </text>
+    <text name="skill_10_explain" id="2767324773" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Петлеподібна, швидка атака ногою в повітрі
+    </text>
+    <text name="skill_07_command" id="2769657697" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Рухайте <image name="button_left_stick" /> в повітрі
+    </text>
+    <text name="skill_51_explain" id="2815759458" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Збільшує швидкість планерування, не втрачаючи висоти польоту.
+    </text>
+    <text name="skill_48_command" id="2818092382" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_left" /> при появи таргету
+    </text>
+    <text name="skill_32_explain" id="2884503397" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Збільшує швидкість Карткового Крутіння, при цьому у Емі більше не паморочиться в голові при довгому використанні атаки.
+    </text>
+    <text name="skill_11_name" id="2886530140" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Спін Слеш
+    </text>
+    <text name="skill_29_command" id="2886836321" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_right" /> в повітрі
+    </text>
+    <text name="skill_50_command_Steam" id="2889028550" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_cyloop" />
+    </text>
+    <text name="skill_24_name" id="2907257050" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Прискорення
+    </text>
+    <text name="skill_37_name" id="2927983960" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Подвійний стрибок
+    </text>
+    <text name="skill_73_explain" id="2932938082" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Невеликий стрибок у повітрі.
+    </text>
+    <text name="skill_13_explain" id="2953247336" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Запускає у ворога залп з енергетичних сфер.
+    </text>
+    <text name="skill_50_name" id="2967365089" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Кібер Кулак
+    </text>
+    <text name="skill_63_name" id="2988091999" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Хомніг Атака
+    </text>
+    <text name="skill_54_explain" id="3001682021" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Невеликий стрибок у повітрі.
+    </text>
+    <text name="skill_76_name" id="3008818909" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_30_command" id="3041511639" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_right" /> в повітрі
+    </text>
+    <text name="skill_35_explain" id="3070425960" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Вороги, атаки яких ви парували, на короткий час зменшують своє здоров'я
+    </text>
+    <text name="skill_71_command" id="3089946324" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_right" /> → <image name="button_left_trigger" /> → Відпустіть <image name="button_right" />
+    </text>
+    <text name="skill_11_command" id="3110255578" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисніть <image name="button_bottom" /> під час комбо
+    </text>
+    <text name="skill_76_explain" id="3118860645" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_16_explain" id="3139169899" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_52_command" id="3158690263" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_right" /> → <image name="button_left_trigger" /> → Відпустіть <image name="button_right" />
+    </text>
+    <text name="skill_63_command_Steam" id="3166504520" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" /> поки таргет видимий
+    </text>
+    <text name="skill_57_explain" id="3187604584" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_01_name" id="3196663643" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Кібер Петля
+    </text>
+    <text name="skill_14_name" id="3217390553" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Крос Слеш
+    </text>
+    <text name="skill_53_explain_Steam" id="3225870677" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Утримуйте <image name="s_button_qsleft" />＋<image name="s_button_qsright" /> аби парирувати атаку.
+    </text>
+    <text name="skill_33_command" id="3227434202" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_right" /> → <image name="button_left_trigger" /> → Відпустіть <image name="button_right" />
+    </text>
+    <text name="skill_27_name" id="3238117463" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Карткове Кручення
+    </text>
+    <text name="skill_38_explain" id="3256348523" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_74_command" id="3275868887" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_left_shoulder" />＋<image name="button_right_shoulder" />
+    </text>
+    <text name="skill_40_name" id="3277498592" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_48_explain_Steam" id="3295852251" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Автоматично атакуйте кілька цілей у стані свердла, відпускаючи <image name="s_button_attack" /> після появи декількох таргетів на ворогах.
+    </text>
+    <text name="skill_14_command" id="3296178141" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисніть <image name="button_right_trigger" /> в повітрі →<image name="button_bottom" /> в повітрі
+    </text>
+    <text name="skill_53_name" id="3298225502" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Парирування
+    </text>
+    <text name="skill_79_explain" id="3304783208" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_66_name" id="3318952412" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Атака Ключем
+    </text>
+    <text name="skill_19_explain" id="3325092462" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_79_name" id="3339679322" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_55_command" id="3344612826" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_left_shoulder" />＋<image name="button_right_shoulder" />
+    </text>
+    <text name="skill_35_command_Steam" id="3348701645" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
+    </text>
+    <text name="skill_36_command" id="3413356765" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_top" /> та продовжуйте рухатись
+    </text>
+    <text name="skill_77_command" id="3461791450" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_20_explain" id="3479767780" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_17_command" id="3482100704" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      уміння 17 команд
+    </text>
+    <text name="skill_04_name" id="3527524056" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Фантомний Ривок
+    </text>
+    <text name="skill_61_explain" id="3528202465" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Стрибок в повітря.
+    </text>
+    <text name="skill_58_command" id="3530535389" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_17_name" id="3548250966" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_01_explain" id="3548511719" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Залишає слід світла під час руху. При закритті кола може викликати різні ефекти.
+    </text>
+    <text name="skill_53_command_Steam" id="3556196041" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
+    </text>
+    <text name="skill_30_name" id="3587632095" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Високий Картковий Стрибок
+    </text>
+    <text name="skill_42_explain" id="3596946404" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Рухайтеся вперед у повітрі на великій швидкості, поступово втрачаючи висоту. Продовжуйте планерувати, використовуючи <image name="button_l_stick_leftright" /> для змінни напрямку.
+    </text>
+    <text name="skill_39_command" id="3599279328" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_43_name" id="3608359005" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Хомінґ Атака
+    </text>
+    <text name="skill_48_command_Steam" id="3626177615" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="s_button_attack" /> при появі таргету
+    </text>
+    <text name="skill_56_name" id="3629085915" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Кібер Петля
+    </text>
+    <text name="skill_69_name" id="3649812825" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Кібер Бластер
+    </text>
+    <text name="skill_23_explain" id="3665690343" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Виконуйте Хомінґ Атаку на ворогам чи деяким об'єктам, на яких є таргет
+    </text>
+    <text name="skill_64_explain" id="3714125028" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Використовуйте індикатор прискорення аби збільшити свою швидкість. Під час прискорення в повітрі ви здійсните 
+    </text>
+    <text name="skill_04_explain" id="3734434282" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Коли лічильник комбо досягає максимуму, активується Фантомний Ривок, в результаті чого атаки стають в 1.2 рази потужнішими.
+      Фантомний Ривок триває доти, доки лічильник комбо не досягне 0.
+    </text>
+    <text name="skill_40_command" id="3753954646" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_45_explain" id="3782868967" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Підіймайтесь по червоним та зеленим стінам на високій швидкості
+    </text>
+    <text name="skill_21_command" id="3822698585" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_bottom" /> на землі
+    </text>
+    <text name="skill_66_command_Steam" id="3833672011" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" />
+    </text>
+    <text name="skill_02_command_Steam" id="3850608717" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисніть <image name="s_button_cyloop" />＋<image name="button_right" /> коли з'явиться підказка
+    </text>
+    <text name="skill_26_explain" id="3851612906" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Використовуйте Карти Таро для атаки. Двічі тисність <image name="button_left" /> щоб атакувати двічі поспіль.
+    </text>
+    <text name="skill_07_name" id="3858384469" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Трюки в повітрі
+    </text>
+    <text name="skill_62_command" id="3871133270" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_bottom" /> після подвійного стрибку
+    </text>
+    <text name="skill_02_command" id="3891442524" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Тисніть <image name="button_top" />＋<image name="button_right" /> коли з'явиться підказка
+    </text>
+    <text name="skill_20_name" id="3897765598" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_67_explain" id="3900047591" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Кидайте кілька ключів, що буду зависати над землею на короткий час. Їх можна використати як платформу, однак лише раз
+    </text>
+    <text name="skill_33_name" id="3918492508" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Спін Деш
+    </text>
+    <text name="skill_07_explain" id="3920356845" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Повітряні трюки можна виконувати, коли Соник перебуває в повітрі, а навколо нього утворюються іскри. Виконуйте повітряні трюки, щоб отримати очки умінь.
+    </text>
+    <text name="skill_46_name" id="3939219418" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Прискорене Свердло
+    </text>
+    <text name="skill_43_command" id="3939877209" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" /> поки таргет видимий
+    </text>
+    <text name="skill_43_command_Steam" id="3945887562" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" /> поки таргет видимий
+    </text>
+    <text name="skill_59_name" id="3959946328" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_48_explain" id="3968791530" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Автоматично атакуйте кілька цілей у стані свердла, відпускаючи <image name="button_left" /> після появи декількох таргетів на ворогах.
+    </text>
+    <text name="skill_72_name" id="3999327457" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Парирування
+    </text>
+    <text name="skill_24_command" id="4008621148" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left_stick" />＋<image name="button_right_trigger" />
+    </text>
+    <text name="skill_29_explain" id="4037535469" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Падайте на ворогів з гори та завдавайте їм шкоди.
+    </text>
+    <text name="skill_65_command" id="4057055833" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left_stick" />＋<image name="button_right_trigger" /> з МАКС. КІЛЕЦЬ
+    </text>
+    <text name="skill_28_explain_Steam" id="4075235293" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Автоматично атакуйте кілька цілей, відпускаючи <image name="s_button_attack" /> після появи декількох таргетів на ворогах.
+    </text>
+    <text name="skill_05_command" id="4077365087" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_left" /> під час комбо
+    </text>
+    <text name="skill_46_command" id="4125799772" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left_stick" />＋<image name="button_right_trigger" /> з МАКС. КІЛЕЦЬ
+    </text>
+    <text name="skill_69_explain_Steam" id="4170514138" font="Range_FNT_skillexp_min" layout="Range_LAY_skillexp">
+      Використовуйте шкалу щоб вистрілити кулею світла що вибухне при контакті з об'єктом. Використовуй <image name="s_button_cyloop" /> аби підірвати її вручну. Це також працює і в повітрі. Використовуйте це біля спеціальних знаків, що зробить об'єкти та предмети які ховаються за ними, видимими.
+    </text>
+    <text name="skill_30_explain" id="4192210787" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Після Карткового Стомпу, ви можете зробити сальто і підстрибнути високо в повітря.
+    </text>
+    <text name="skill_27_command" id="4194543711" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" /> після Карткової Атаки
+    </text>
+    <text name="skill_10_name" id="4207899101" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Петлевий Удар
+    </text>
+    <text name="skill_56_command_Steam" id="4223363532" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="s_button_cyloop" /> в русі
+    </text>
+    <text name="skill_23_name" id="4228626011" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Хомінґ атака
+    </text>
+    <text name="skill_71_explain" id="4240645472" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Тисніть <image name="button_left_trigger" /> під час бігу чи в повітри, аби скрутитись в клубок та переїхати ворогів, наносячи їм шкоду.
+    </text>
+    <text name="skill_68_command" id="4242978396" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_right" /> в повітрі
+    </text>
+    <text name="skill_36_name" id="4249352921" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Кібер Петрля
+    </text>
+    <text name="skill_11_explain" id="4260954726" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Оточіть ворога ударною круговою атакою.
+    </text>
+    <text name="skill_08_command" id="4263287650" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Утримуйте <image name="button_left_trigger" /> в повітрі або під час комбо
+    </text>
+    <text name="skill_49_name" id="4270079831" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Вогняний Стомп
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_skillexp">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_skillname">
+      <typeface>RANGEmixBld</typeface>
+      <size>34</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_skillcmd">
+      <typeface>RANGEmixStd</typeface>
+      <size>24</size>
+      <lineSpacing>8</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_skillexp_min">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_skillexp">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_skillname">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_skillcmd">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

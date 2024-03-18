@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="tu2000_010" id="537011151" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Камера
+    </text>
+    <text name="tu2000_050" id="537011659" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Хомінґ Атака
+    </text>
+    <text name="tu2000_070" id="537011913" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Фіксація
+    </text>
+    <text name="tu2000_110" id="537027280" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Кібер Петля (в русі)
+    </text>
+    <text name="tu2000_130" id="537027534" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Кібер Петля (в русі)
+    </text>
+    <text name="tu2000_220" id="537043536">
+      Лазання
+    </text>
+    <text name="tu2000_225" id="537043541">
+      Біг по стіні (під час лазання)
+    </text>
+    <text name="hud_mystery_tombstone_11" id="849718130" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Вибрати надгробок
+    </text>
+    <text name="hud_mystery_tombstone_21" id="849718257" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Повернути надгробок
+    </text>
+    <text name="hud_mystery_pinball_11" id="1090658803" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Лівий важіль
+    </text>
+    <text name="hud_mystery_pinball_12" id="1090658804" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Правий важіль
+    </text>
+    <text name="hud_mystery_cannon_11" id="1564332122" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Приціл
+    </text>
+    <text name="hud_mystery_cannon_21" id="1564332249" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Стріляй!
+    </text>
+    <text name="hud_mystery_cannon_31" id="1564332376" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Покласти гарматне ядро
+    </text>
+    <text name="hud_mystery_cannon_32" id="1564332377" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Зарядити гармату
+    </text>
+    <text name="tu2000_070_Steam" id="2140245178" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Фіксіція
+    </text>
+    <text name="hud_mystery_crane_11" id="3205722398" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Рух маніпулятора
+    </text>
+    <text name="hud_mystery_crane_21" id="3205722525" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Взяти маніпулятором
+    </text>
+    <text name="hud_mystery_crane_22" id="3205722526" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Покласти кулю
+    </text>
+    <text name="hud_shooting_bk" id="3553537021" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Темний постріл
+    </text>
+    <text name="hud_shooting_wh" id="3553539685" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Світлий постріл
+    </text>
+    <text name="hud_mystery_quit" id="3975659031" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Завершити операцію
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_btnguide">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_btnguide">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

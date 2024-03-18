@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="tu1000dlc_255_Xbox" id="754672964" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu1000dlc_115_Switch" id="1258529506" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu1000dlc_115_Xbox" id="2727456193" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu1000dlc_255_PC" id="3623167140" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu1000dlc_255_Switch" id="3650525029" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu1000dlc_115_PC" id="3903957537" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu1000dlc_010" id="3963480491" font="Range_FNT" layout="Range_LAY">
+      Скриню Дослідника відкрито
+    </text>
+    <text name="tu1000dlc_015" id="3963480496" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Скриню Дослідника було відкрити.
+      Ви отримали наступні предмети:
+
+      40 Пам'ятних предметів Емі
+      10 Ключів Сховищ Хаос Смарагдів
+      1 Шестерня Порталу Острова Кроноса
+    </text>
+    <text name="tu1000dlc_020" id="3963480618" font="Range_FNT" layout="Range_LAY">
+      Про відкриття Скрині Дослідника
+    </text>
+    <text name="tu1000dlc_025" id="3963480623" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Вміст Скрині Дослідника стане доступним після завершення туторіалу та повернення на Титульний Екран чи входу в Кіберпростір
+    </text>
+    <text name="tu1000dlc_030" id="3963480745" font="Range_FNT" layout="Range_LAY">
+      Про Барбекю
+    </text>
+    <text name="tu1000dlc_035" id="3963480750" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Барбекю стане доступним після перезаходу до рибного місця
+    </text>
+    <text name="tu1000dlc_040" id="3963480872" font="Range_FNT" layout="Range_LAY">
+      Сповіщення про оновлення
+    </text>
+    <text name="tu1000dlc_045" id="3963480877" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Це оновлення містить наступний вміст:
+        - Фоторежим
+        - Музичний автомат
+        - Випробування Кіберпростору (відкривається після проходження сюжету)
+        - Швидка Битва (відкривається після проходження сюжету)
+        - Скін "Весняні Коко"
+    </text>
+    <text name="tu1000dlc_050" id="3963480999" font="Range_FNT" layout="Range_LAY">
+      Спробуйте Фоторежим
+    </text>
+    <text name="tu1000dlc_055" id="3963481004" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Перейдіть в Фоторежим, відкривши меню паузи.
+      Грав призупинеться, а камерою можна буде вільно рухати.
+      * Фоторежим буде недоступний в певних зонах гри.
+    </text>
+    <text name="tu1000dlc_060" id="3963481126" font="Range_FNT" layout="Range_LAY">
+      Спробуйте Музикальний Автормат
+    </text>
+    <text name="tu1000dlc_065" id="3963481131" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Міняйнте музику на островах, тиснучи <image name="button_crosskey_right" />.
+      Утримуйте кнопку, щоб відкрити список пісень.
+      Знаходьте Звукові Спогади, заховані на островах, щоб розблокувати більше пісень
+      * Музикальний Автомат буде недоступний в певних зонах гри.
+      * Вимкнути Музикальний Автомат можна в налаштуваннях.
+    </text>
+    <text name="tu1000dlc_070" id="3963481253" font="Range_FNT" layout="Range_LAY">
+      Випробування Кіберпростору та Швидка Битва
+    </text>
+    <text name="tu1000dlc_075" id="3963481258" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Випробування Кіберпростору та Швидка Битва відкрито:
+        - Випробування Кіберпростору - це режим на час, якому ти послідовно підряд проходиш рівні Кіберпростору з основної компанії.
+        - Швидка Битва - це режим битви на час, в якому ви будете битись з ворогами, вартовими та титанами.
+
+        Доступ до цих режимів можна отримати з Титульного Екрану. Отримайте ранг A, щоб розблокувати наступний етап. Отримання всіх рангів S відкриє щось цікаве.
+    </text>
+    <text name="tu1000dlc_080" id="3963481380" font="Range_FNT" layout="Range_LAY">
+      Потужне Прискорення для Кіберпростору
+    </text>
+    <text name="tu1000dlc_085" id="3963481385" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Відкрито Потужне Прискорення для Кіберпростору
+      Прейдіть до Налаштування &gt; Налаштування Геймплею &gt; ввімкніть функцію Потужного Прискорення в Кіберпросторі.
+    </text>
+    <text name="tu1000dlc_090" id="3963481507" font="Range_FNT" layout="Range_LAY">
+      Новий рівень складності відкрито.
+    </text>
+    <text name="tu1000dlc_095" id="3963481512" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Ектримальну складність можна вибрати лиш на початку нової гри. На цій складності, Сонік більше не може збільшувати свої характеристики, а вороги стануть сильнішими. Рівень складності не можна буде більше змінити.
+    </text>
+    <text name="tu1000dlc_100" id="3963496493" font="Range_FNT" layout="Range_LAY">
+      Оновлення гри
+    </text>
+    <text name="tu1000dlc_105" id="3963496498" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+       - Ігровий Автомат Зорепаду можна вимикати в налаштуваннях &gt; Налаштування Геймплею.
+       - Потужне Прискорення можна вимикати в налаштуваннях &gt; Налаштування Геймплею.
+       - Додано кнопку швидкого перезапуску. В Кіберпросторі тисніть <image name="button_left_trigger" />＋<image name="button_right_trigger" />＋<image name="button_view" /> щоб перезапустити рівень.
+       - Старійшина та Коко-відлюдник можуть змінювати рівень Соніка на декілька позицій відразу
+    </text>
+    <text name="tu1000dlc_115" id="3963496625" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Характеристики Соніка в Швидкій Битві залежать від вибраного файла збереження. Кращі характеристики дадуть вам кращий результат. 
+      Хутко перемагайте всіх ворогів та отримайте Ранг S!
+    </text>
+    <text name="tu1000dlc_120" id="3963496747" font="Range_FNT" layout="Range_LAY">
+      Деталі Оновлення
+    </text>
+    <text name="tu1000dlc_125" id="3963496752" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Оновлення привнесло новий контент:
+      -Випробування Ланцюга Дій
+      -Нові Коко
+      -Святкові дикорації
+      -Карта Статусу
+      -Нова Гра+
+    </text>
+    <text name="tu1000dlc_130" id="3963496874" font="Range_FNT" layout="Range_LAY">
+      Нова Гра+
+    </text>
+    <text name="tu1000dlc_133" id="3963496877" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Нова Гра+ доступна після проходження гри. У Новій Грі+ уміння та характеристики Соніка залишаться, але предмети - ні.
+    </text>
+    <text name="tu1000dlc_135" id="3963496879" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Відкрито Нову Гру+.
+      Якщо ви виберете "Нова Гра+" на Титульному Екрані та виберете збереження з пройденою грою, уміння та характеристики Соніка зі збереження перенесуться. Однак предмети не будуть перенесені.
+    </text>
+    <text name="tu1000dlc_140" id="3963497001" font="Range_FNT" layout="Range_LAY">
+      Нові Коко та Прокачка Шкали Прискорення
+    </text>
+    <text name="tu1000dlc_145" id="3963497006" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      На островах з'явилися спеціальні Коко, заховані по островах.
+      Нові Коко настільки рідкісні що вважаються за кілька звичайних Коко.
+      Якщо ви віднесете їх до Старійшини Коко, як нагорода, він збільшить вашу Шкалу Прискорення.
+    </text>
+    <text name="tu1000dlc_150" id="3963497128" font="Range_FNT" layout="Range_LAY">
+      Випробування Ланцюга Дій
+    </text>
+    <text name="tu1000dlc_155" id="3963497133" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Почніть Випробування Ланцюга Дій використавши Кібер Петлю над Стартовою Міткою. За відведений час, з'єднайте кілька дій у ланцюх, щоб заповнити шкалу ланцюга дій. Щоразу як шкала заповнюватиметься, множник очок буде рости.
+      Виконанна декілька раз дія не буде заповнювати шкалу ланцюга дій деякий час.
+
+      Відкрийте меню паузи, щоб перервати Випробування Ланцюга Дій. 
+    </text>
+    <text name="tu1000dlc_160" id="3963497255" font="Range_FNT" layout="Range_LAY">
+      Спін Деш
+    </text>
+    <text name="tu1000dlc_165" id="3963497260" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Отримавши всі Ранги S на Випробуваннях Ланцюга Дій, ви розблокуєте Спін Деш!
+      Утримуйте <image name="button_right" /> та тисніть <image name="button_left_trigger" /> аби зарядити Спін Деш, а потім відпустіть <image name="button_right" /> аби виконати Спін Деш.
+      Якщо поблизу немає ворогів, тисніть <image name="button_left_trigger" /> в повітрі або під час прискорення, щоб використати Спін Деш
+    </text>
+    <text name="tu1000dlc_166" id="3963497261" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Відкрито Спін Деш!
+      Утримуйте <image name="button_right" /> та тисніть <image name="button_left_trigger" /> аби зарядити Спін Деш, а потім відпустіть <image name="button_right" /> аби виконати Спін Деш.
+      Якщо поблизу немає ворогів, тисніть <image name="button_left_trigger" /> в повітрі або під час прискорення, щоб використати Спін Деш
+    </text>
+    <text name="tu1000dlc_170" id="3963497382" font="Range_FNT" layout="Range_LAY">
+      Герой Рубежів
+    </text>
+    <text name="tu1000dlc_175" id="3963497387" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Завершивши все на островах, ви отримаєте новий скін "Герой Рубежів".
+      Перейдіть в розділ "Екстра" &gt; "Вигляд Соніка" щоб екіпірувати його.
+    </text>
+    <text name="tu1000dlc_180" id="3963497509" font="Range_FNT" layout="Range_LAY">
+      Additional options
+    </text>
+    <text name="tu1000dlc_185" id="3963497514" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      -The rate of deceleration when jumping, the deceleration rate when stopping, maintaining a boost when jumping, and battle skill camera can now be set in Options &gt; Game settings.
+      -The Cyber Space BGM changes with boost can now be toggled in Options &gt; Sound.
+    </text>
+    <text name="tu1000dlc_187" id="3963497516" font="Range_FNT" layout="Range_LAY">
+      Update
+    </text>
+    <text name="tu1000dlc_188" id="3963497517" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      -Stage records in Cyber Space Challenge and Arcade Mode can now be deleted.
+      -The tower difficulty on Rhea Island has been reduced for Easy mode.
+      -Additional songs added to the Juke Box. Acquire them by gathering Sound Memories.
+    </text>
+    <text name="tu1000dlc_190" id="3963497636" font="Range_FNT" layout="Range_LAY">
+      Action Marks
+    </text>
+    <text name="tu1000dlc_195" id="3963497641" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      When the following time-saving actions are used in Cyber Space, colored marks will now appear in the results:
+      -Homing Dash: white
+      -Spin Dash: red
+      -Change in deceleration rate when jumping: yellow
+      -Cyber Space Power Boost: blue
+    </text>
+    <text name="tu1000dlc_200" id="3963512622" font="Range_FNT" layout="Range_LAY">
+      Dragon's Trial
+    </text>
+    <text name="tu1000dlc_205" id="3963512627" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
+        -Sonic's stats will be fixed
+    </text>
+    <text name="tu1000dlc_210" id="3963512749" font="Range_FNT" layout="Range_LAY">
+      Snake's Trial
+    </text>
+    <text name="tu1000dlc_215" id="3963512754" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
+        -Sonic's stats will be fixed
+        -Cyloop will be the only available skill
+    </text>
+    <text name="tu1000dlc_220" id="3963512876" font="Range_FNT" layout="Range_LAY">
+      Tiger's Trial
+    </text>
+    <text name="tu1000dlc_225" id="3963512881" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
+        -Sonic's stats will be fixed
+        -Cyloop will be the only available skill
+    </text>
+    <text name="tu1000dlc_230" id="3963513003" font="Range_FNT" layout="Range_LAY">
+      Crane's Trial
+    </text>
+    <text name="tu1000dlc_235" id="3963513008" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
+        -Sonic's stats will be fixed
+        -Enemies will be greatly enhanced
+    </text>
+    <text name="tu1000dlc_240" id="3963513130" font="Range_FNT" layout="Range_LAY">
+      Master King Koco's Trial
+    </text>
+    <text name="tu1000dlc_245" id="3963513135" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
+        -Sonic's stats will be fixed
+        -Perfect Parry will be the only way to parry attacks
+        -Rings will be unavailable
+    </text>
+    <text name="tu1000dlc_250" id="3963513257" font="Range_FNT" layout="Range_LAY">
+      Another Story
+    </text>
+    <text name="tu1000dlc_255" id="3963513262" font="Range_FNT_tutorial_detail" layout="Range_LAY_window_detail">
+      Pass through the Ring Gate to start Another Story.
+      It is recommended to clear the main story of the current save before starting Another Story, as the progress on the main story will be halted. Return to the main story by loading its save.
+      Proceed to Another Story?
+    </text>
+    <text name="tu1000dlc_260" id="3963513384" font="Range_FNT" layout="Range_LAY">
+      Final Battle
+    </text>
+    <text name="tu1000dlc_265" id="3963513389" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The trials are complete.
+      The final Titan has appeared.
+    </text>
+    <text name="tu1000dlc_270" id="3963513511" font="Range_FNT" layout="Range_LAY">
+      Power Up
+    </text>
+    <text name="tu1000dlc_275" id="3963513516" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Master King Koco's trial has awakened Super Sonic's hidden power. Parry has powered up to become Perfect Parry, which can reflect any attack. Perfect Parry requires exact timing.
+      Go forth and unleash Super Sonic's new power!
+    </text>
+    <text name="tu1000dlc_280" id="3963513638" font="Range_FNT" layout="Range_LAY">
+      Starfall+
+    </text>
+    <text name="tu1000dlc_285" id="3963513643" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Once every few nights, a meteor shower will occur. Defeated enemies will be resurrected and destroyed objects will be repaired.
+      Koco, Red Seeds of Power, and Blue Seeds of Defense will appear in the area as well.
+    </text>
+    <text name="tu1000dlc_290" id="3963513765" font="Range_FNT" layout="Range_LAY">
+      Character Swap
+    </text>
+    <text name="tu1000dlc_295" id="3963513770" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Amy will be playable later. Feel free to progress through the game and return to Amy later to complete any unfinished tasks.
+    </text>
+    <text name="tu1000dlc_296" id="3963513771" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Knuckles will be playable later. Feel free to progress through the game and return to Knuckles later to complete any unfinished tasks.
+    </text>
+    <text name="tu1000dlc_297" id="3963513772" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Tails will be playable later. Feel free to progress through the game and return to Tails later to complete any unfinished tasks.
+    </text>
+    <text name="tu1000dlc_298" id="3963513773" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Sonic will be playable later. Feel free to progress through the game and return to Sonic later to complete any unfinished tasks.
+    </text>
+    <text name="tu1000dlc_300" id="3963528751" font="Range_FNT" layout="Range_LAY">
+      Update
+    </text>
+    <text name="tu1000dlc_305" id="3963528756" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      -Another Story added
+      
+      The entrance to Another Story has appeared somewhere on Ouranos Island.
+    </text>
+    <text name="tu1000dlc_310" id="3963528878" font="Range_FNT" layout="Range_LAY">
+      Entrance to Another Story
+    </text>
+    <text name="tu1000dlc_315" id="3963528883" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The entrance to Another Story has appeared somewhere on Ouranos Island.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_window_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

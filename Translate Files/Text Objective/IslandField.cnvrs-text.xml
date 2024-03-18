@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="obj_ilf_quest_04_detail" id="10817131" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Знищити всі вежі за відведений час.
+      (В цьому завданні недоступне ухилення)
+    </text>
+    <text name="obj_ilf_02puzzle_01detail" id="103816173" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Ставок перед Соніком має пропку на дні.
+      Над ним великий камінь який тримає ланцюг під'єднаний до цієї пропки.
+      Можливо, якщо по ньому вдарити достатньо сильно, він зрушиться.
+    </text>
+    <text name="obj_ilf_clearstate_010" id="449383064" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Острів Кроноса Підкорений!
+    </text>
+    <text name="obj_ilf_clearstate_020" id="449383191" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Острів Ареса Підкорений!
+    </text>
+    <text name="obj_ilf_clearstate_030" id="449383318" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Острів Хаоса Підкорений!
+    </text>
+    <text name="obj_ilf_clearstate_040" id="449383445" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Острів Реї Підкорений!
+    </text>
+    <text name="obj_ilf_clearstate_050" id="449383572" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Ви Підкорили Всі Острови!
+    </text>
+    <text name="obj_ilf_01puzzle_01detail" id="493507694" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Деякі надгробків є чорними і їх можна повернути.
+      Поверніть ці надгробки і направте їх в правильному напрямі
+      Візерунок на землі вам допоможе.
+    </text>
+    <text name="obj_ilf_quest_03_detail" id="743066348" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Приведіть Коко назад до Наклза, уникаючи їх бомб.
+      Отрмання шкоди тричі, провалить завдання.
+      (Прискорення та ухилення недоступне в цьому завданні) 
+    </text>
+    <text name="obj_ilf_01puzzle_01" id="1214519805" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Могильна Таємниця
+    </text>
+    <text name="obj_ilf_quest_02_detail" id="1475315565" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Відведи всіх Коко назад до Наклза.
+      Сонік може збільшити швидкість несучи більше Коко, однак ВЕЖІ також прискоряться.
+      (Прискорення та ухилення недоступне в цьому завданні)
+    </text>
+    <text name="obj_ilf_02puzzle_01" id="1926962812" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Позбудьтесь води, аби рухатись далі
+    </text>
+    <text name="obj_ilf_02puzzle_02" id="1926962813" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Підберіть Кольори
+    </text>
+    <text name="obj_ilf_quest_01_detail" id="2207564782" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Позбудьтесь бур'янів за допомогою Кібер Петлі та наберіть 7000 очок, перш ніж час закінчиться.
+      Дивись за бджолами! Вони небезпечні. Заманюй їх до квітів, використовуючи Швидку Кібер Петлю на насінні, щоб змусити квіти зацвісти.
+    </text>
+    <text name="obj_ilf_challenge_00" id="2541630304" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Використай Парирування щоб відбити всі енергетичні кулі <var name="num_parried" /> раз!
+    </text>
+    <text name="obj_ilf_challenge_01" id="2541630305" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Просто біжіть допоки не заповниться лічильник!
+    </text>
+    <text name="obj_ilf_challenge_02" id="2541630306" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Біжи, дотримуючись ліміту швидкості, та заповни лічильник! 
+    </text>
+    <text name="obj_ilf_challenge_03" id="2541630307" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Нанеси <var name="num_impacts" /> одиниць шкоди за встановлений час!
+    </text>
+    <text name="obj_ilf_challenge_04" id="2541630308" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Використай швидкий перекат, щоб наступати на стародавні панелі які світяться <var name="num_reflexes" /> раз!
+    </text>
+    <text name="obj_ilf_challenge_05" id="2541630309" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Паймайте всі падаючі сфери!
+    </text>
+    <text name="obj_ilf_03puzzle_01" id="2639405819" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Активуйте Робота Яйця-Смерті
+    </text>
+    <text name="obj_ilf_03puzzle_02" id="2639405820" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Пройдіть гру в Руїнах
+    </text>
+    <text name="obj_ilf_quest_00" id="2755061729" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Сімейне Зібрання
+    </text>
+    <text name="obj_ilf_quest_01" id="2755061730" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Весна в Повітрі
+    </text>
+    <text name="obj_ilf_quest_02" id="2755061731" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Екстрене Повернення
+    </text>
+    <text name="obj_ilf_quest_03" id="2755061732" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Збір Коко
+    </text>
+    <text name="obj_ilf_quest_04" id="2755061733" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Найкращий Захист
+    </text>
+    <text name="obj_ilf_quest_05" id="2755061734" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Mechanical Collectible
+    </text>
+    <text name="obj_ilf_quest_06" id="2755061735" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Прірва між Мостами
+    </text>
+    <text name="obj_ilf_quest_06_detail" id="2841285993" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Перетніть річку та скористайтесь контрольною панеллю, аби з'єднати розвідний міст.
+      Досягніть цілі за відведений час.
+    </text>
+    <text name="obj_ilf_quest_00_detail" id="2939813999" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Відведіть Коко назад до їх Матері, уникаючи їх бомб.
+      Отрмання шкоди тричі, провалить завдання.
+      (Прискорення та ухилення недоступне в цьому завданні) 
+    </text>
+    <text name="obj_ilf_quest_05_detail" id="3573535210" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Розбивайте коробки, аби зібрати з них потрібні деталі. Зберіть 600 деталей за відведенний час.
+    </text>
+    <text name="obj_ilf_03puzzle_02detail" id="3698958445" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Знайомий на вигляд древній механізм.
+      Пройдіть гру, щоб дізнатись, що станеться.
+    </text>
+    <text name="obj_ilf_quest_00_detail2" id="3989190467" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Відведіть Коко назад до їх Матері, уникаючи їх бомб.
+      Отрмання шкоди, провалить завдання.
+      (Прискорення та ухилення недоступне в цьому завданні) 
+    </text>
+    <text name="obj_ilf_03puzzle_01detail" id="4009091948" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Отримайте доступ до консолі управління, щоб активувати Робота Яйця-Смерті.
+    </text>
+    <text name="obj_ilf_02puzzle_02detail" id="4088649966" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      На землі розташованні кам'яні сфери. 
+      Біля них є заглиблення різних кольорів.
+      Кран над головою, здається, може пересувати ці сфери.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_tutorial">
+      <typeface>RANGEmixStd</typeface>
+      <size>46</size>
+      <lineSpacing>26</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_tutorial">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1510_010" id="2089110628" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Стій, їжаче!
+    </text>
+    <text name="ev1510_020" id="2089110755" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Перш ніж ти почнеш битву, є ще один можливий сценарій.
+    </text>
+    <text name="ev1510_030" id="2089110882" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Гаразд, я слухаю.
+    </text>
+    <text name="ev1510_040" id="2089111009" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Кілька хвилин тому твої друзі пожертвували своїми тілесними формами, щоб придушити твоє кібервикривлення і повернути тебе у цей вимір.
+    </text>
+    <text name="ev1510_050" id="2089111136" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Вони були так близькі до того, щоб знову стати вільними, і вони відмовилися від усього заради мене.
+    </text>
+    <text name="ev1510_060" id="2089111263" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Мені байдуже, скільки островів чи титанів для цього знадобиться! Цього разу я їх поверну!
+    </text>
+    <text name="ev1510_070" id="2089111390" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Агх. Будь ласка, не треба нудних промов про "суперсилу командної роботи".
+    </text>
+    <text name="ev1510_080" id="2089111517" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1510_090" id="2089111644" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Серед мільйонів моїх розрахунків був один настільки віддалений і малоймовірний, що я не розглядав його.
+      Однак, як показує ситуація, саме він може врятувати нас усіх.
+    </text>
+    <text name="ev1510_100" id="2089126630" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ну, я люблю перемагати обставини. Який план?
+    </text>
+    <text name="ev1510_110" id="2089126757" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Я можу повернути зусилля твоїх друзів назад і відновити їх.
+      Тоді вони розшукають для нас Смарагди Хаосу.
+    </text>
+    <text name="ev1510_120" id="2089126884" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Я можу стабілізувати твоє кібервикривлення на короткий час.
+    </text>
+    <text name="ev1510_130" id="2089127011" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      А потім, я допоможу тобі перетворити кібервикривлення на силу, щоб ти міг покласти край цьому і врятувати Батька.
+    </text>
+    <text name="ev1510_140" id="2089127138" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      І врятувати світ, так?
+    </text>
+    <text name="ev1510_150" id="2089127265" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Це його завоювання, тому так.
+    </text>
+    <text name="ev1510_160" id="2089127392" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Таак, поговоримо про це трохи пізніше.
+    </text>
+    <text name="ev1510_170" id="2089127519" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Але план мені подобається! Зробимо це!
+    </text>
+    <text name="ev1510_180" id="2089127646" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Попереджаю: випробування, з якими ти зіткнеся, будуть виснажливими, і у нас буде дуже мало часу.
+    </text>
+    <text name="ev1510_190" id="2089127773" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Будь ласка, я живу заради часових випробувань. Ходімо вже!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>
